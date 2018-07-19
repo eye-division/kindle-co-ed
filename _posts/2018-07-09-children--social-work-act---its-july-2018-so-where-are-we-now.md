@@ -49,7 +49,7 @@ But more than that, **collaborative working, will be paramount** in pulling off 
 
 Some points are specific parts of the Act, some are my own expression of the 'sector levers' which I see as at play in shaping the flow of money, decision- making and influence through the wider public sector 'economy'. &nbsp;
 
-**A summary could be expressed thus:**
+**A summary could be expressed thus: there will be more -**
 
 **Regional and sub-regional commissioning of services:** a need for collaborative working across traditional Public Sector geographical boundaries
 
