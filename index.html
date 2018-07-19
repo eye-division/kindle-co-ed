@@ -1,5 +1,6 @@
 ---
 layout: home
+title: "Welcome to KindleCo"
 _options:
   image:
     width: 1200
@@ -9,80 +10,46 @@ _options:
 _comments:
 
 ---
-<div class="editable">
-  <h1>Welcome to KindleCo</h1>
 
-    <p><strong>Working in the interests of Children, Young People &amp; Families</strong></p>
-
-    <p>KindleCo delivers organisational consultancy, multi-agency project coaching and  partnership mentoring for social purpose organisations and the Public Sector. </p>
-
-    <p>We specialise in supporting the sector champions of</p>
-    <ul>
-      <li>Social Inclusion</li>
-      <li>Mental Health &amp; Wellbeing</li>
-      <li>Education &amp; Skills</li>
-    </ul>
-
-    <p>The work is led by <strong>Jo Broad</strong>, an experienced public sector strategist and Leader of multi-agency projects and partnerships.</p>
-
-    <h2><strong>KindleCo is values - led and outcomes – driven</strong>:</h2>
-
-    <p>I commit to work in <strong>collaboration</strong>, with <strong>courage</strong>, <strong>compassion</strong> and <strong>creativity</strong> to: <strong>Co produce</strong> effective partnerships, <strong>lead</strong> engaging projects &amp; <strong>foster</strong> high aspirations to <strong>serve</strong> our most valuable assets: <strong>Children, Young People &amp; Families</strong>. </p>
-
-    <p>Through KindleCo, I share experience gained over the past 25+ years working with and through the Public Sector, enabling you and your key partners to deliver social purpose objectives in the bigger picture. </p>
-
-    <h2>I will build your confidence and capacity to engage with government - influenced programmes, policy and in partnerships.</h2>
-
-    <p>I want to help you build impact and resilience into your work streams, into your organisation and ultimately into the sector. </p>
-
-    <p>By working creatively and with the courage of our convictions, I believe we can all deliver a lasting meaningful contribution for children, young people and families.</p>
-
-    <p>My services can support your organisation to:</p>
-    <ul>
-      <li><strong>respond</strong> confidently to sector change</li>
-      <li><strong>plan</strong> strategically</li>
-      <li><strong>build</strong> capacity</li>
-      <li><strong>design</strong> new services</li>
-      <li><strong>broker</strong> strategic alliances &amp; partnerships</li>
-      <li><strong>develop</strong> stakeholder networks</li>
-      <li><strong>deliver</strong> multi-agency projects</li>
-      <li><strong>enrich</strong> &amp; underpin organisational development</li>
-      <li><strong>lead</strong> with and through others</li>
-    </ul>
-
-    <p>Collaborative endeavour is my rocket fuel and I want it to be yours too.</p>
-
+<section class="home">
+  <header class="post--header">
+      <h2 class="post--title">{{ page.title }}</h2>
+    </header>
+  <div class="editable">
+    <h3><em><em><em>Specialist to Social Purpose &amp; Public Sector</em></em>
+      </em><em><em></em></em>
+    </h3>
+    <div><em><em>working in the interests of </em></em><em><em><strong>Children, Young People &amp; Families</strong></em></em>
+    </div>
+    <div>&nbsp;</div>
+    <div>&nbsp;</div>
+    <p><strong>&nbsp;<img src="/uploads/kindle-templates-bullet-1.jpg" />Consultancy -&nbsp;</strong>developing projects, partnerships &amp; organisations</p>
+    <p><strong><img src="/uploads/kindle-templates-bullet-1.jpg" />Coaching multi-agency -&nbsp;</strong>project inception, design &amp; delivery</p>
+    <p><strong><img src="/uploads/kindle-templates-bullet-1.jpg" />Programme Leadership - </strong>for strategic initiatives</p>
+    <p><strong>&nbsp;<img src="/uploads/kindle-templates-bullet-1.jpg" />Surgeries </strong>for public sector &amp; social purpose professionals<strong></strong></p>
+    <p>&nbsp;</p>
+    <p><strong>Director</strong>,&nbsp;<strong>Jo Broad</strong>&nbsp;has been working in the interests of Children, Young People &amp; Families for more than 25 years.&nbsp;</p>
     <blockquote>
-      <p>Jo understands the ethos of organisations that innovate and knows how to deliver results</p>
+      <p><strong>Collaborative endeavour is my rocket fuel </strong> and I want it to be yours too​​​​​​....read on for more about <a data-cms-editor-link-style="undefined" href="/about/">KindleCo's values</a></p>
     </blockquote>
+    <p>&nbsp;</p>
+    <p class="center-this-text">What do clients say ? Read <a href="/case-studies/#testimonials">testimonials</a>&nbsp;</p>
+  </div>
+  </section>
 
-   <p><a href="/testimonials/">View more client testimonials.......</a></p>
+  <section class="blog--home">
 
-</div>
-
-<section class="blog">
-
-      {% for post in site.posts limit: 4 %}
-        <a href="{{ post.url | prepend: site.baseurl }}"><h4>{{ post.title }}</h4></a>
-
-        {% if post.main_image_path %}
-          <figure class="featured--col">
-            <a href="{{ post.url | prepend: site.baseurl }}">
-            {% assign alt_text = post.title %}
-            {% if post.image_caption %} {% assign alt_text = post.image_caption %} {% endif %}
-            {% include img.html src=post.main_image_path width=200 alt=alt_text %}
-            </a>
-          </figure>
-        {% endif %}
-
-        {% if post.main_image_path %}<p class="with--feature">{% else %}<p>{% endif %}
-        {{ post.excerpt | markdownify }} <a href="{{ post.url | prepend: site.baseurl }}">read more</a></p>
-        <div class="post-meta">
-          <!-- <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div> -->
-          <!-- Editor Link -->
-          <a href="cloudcannon:collections/{{ post.path }}" class="editor-link">Edit post</a>
-        </div>
-        <p></p>
+    <ul>
+      {% for post in site.posts limit:2 %}
+        <li>
+          <h3 class="hdr--small">{{ post.title }}</h3>
+          <p>{{ post.excerpt | markdownify }}
+          <a href="{{ post.url }}" title="{{ post.title }}">Read more&nbsp;&raquo;</a></p>
         </li>
+
       {% endfor %}
+
+    </ul>
+    <p><a href="/news/">Read all news&nbsp;&raquo;</a></p>
+
   </section>

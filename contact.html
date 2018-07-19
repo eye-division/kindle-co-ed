@@ -9,14 +9,14 @@ homepage_description_markdown:
 frontpagetitle:
 images:
   - image_path:
-    image_title: ""
+    image_title:
     image_description:
 _options:
   main_image_path:
     width: 1200
     height: 1200
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
 _comments:
   title: Page title
   permalink: Be careful editing this
@@ -27,36 +27,37 @@ _comments:
   frontpagetitle: Alternative title for home page use
   images: Add and edit images here
 ---
-  <div class="editable">
-       <strong>Tel:</strong> 111 1111
-  </div>
+
+<div class="editable">
+        <p><strong>Tel:</strong>&nbsp;+44 (07932695432)</p>
+      </div>
 
       <h4>Send an email</h4>
 
       <form action="/thanks/" method="post">
 
       <fieldset>
-            <input type="text" name="_gotcha" style="display:none" />
-            <input type="hidden" name="_to" value="support@eyedivision.com">
-            <input type="hidden" name="_subject" value="Web form">
-            <p>
-            <label for="name">Name:</label>
-            <input type="text" name="name">
-            </p>
-            <p>
-            <label for="_replyto">Email:</label>
-            <input type="email" name="_replyto">
-            </p>
-            <p>
-            <label>Message</label>
-            <textarea name="message"></textarea>
-            </p>
-            {% if site.recaptcha_site_key %}
-                  <div class="g-recaptcha" data-sitekey="{{ site.recaptcha_site_key }}"></div>
-            {% endif %}
-      	<p>
-            <input type="submit" value="Send message">
-            </p>
+        <input type="text" name="_gotcha" style="display:none" />
+        <input type="hidden" name="_to" value="{{ site.email }}" />
+        <input type="hidden" name="_subject" value="Web form" />
+        <p>
+        <label for="name">Name:</label>
+        <input type="text" name="name" />
+        </p>
+        <p>
+        <label for="_replyto">Email:</label>
+        <input type="email" name="_replyto" />
+        </p>
+        <p>
+        <label>Message</label>
+        <textarea name="message"></textarea>
+        </p>
+        {% if site.recaptcha_site_key %}
+          <div class="g-recaptcha" data-sitekey="{{ site.recaptcha_site_key }}"></div>
+        {% endif %}
+  	     <p>
+          <input type="submit" value="Send message" />
+        </p>
       </fieldset>
 
       </form>

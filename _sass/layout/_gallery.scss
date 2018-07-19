@@ -3,7 +3,7 @@
 // -----------------------------------------------------------------------------
 
 /// 100% Gallery blocks
-.gallery-cover {
+.gallery--cover {
     margin: 0 auto 1em auto;
     max-width: 1200px;
     a {
@@ -63,42 +63,42 @@
     }
 }
 
-.gallery-box,
-.gallery-box-large {
+.gallery--box,
+.gallery--box-large {
     padding-bottom: 1em;
     text-align: center;
-    @include grid-media ($medium) {
-        @include grid-column(4);
+    @include grid-media ($small) {
+        @include grid-column(2);
     }
 }
-.gallery-box-50 {
+.gallery--box-50 {
     padding-bottom: 1em;
     text-align: center;
-    @include grid-media ($medium) {
-        @include grid-column(6);
+    @include grid-media ($small) {
+        @include grid-column(2);
     }
 }
-.gallery-box-home {
-    @include grid-media ($medium) {
-        @include grid-column(6);
+.gallery--box-home {
+    @include grid-media ($small) {
+        @include grid-column(2);
     }
 }
 .alpha {
-    @include grid-media ($medium) {
+    @include grid-media ($small) {
         clear: both;
     }
 }
 .last {
-    @include grid-media ($medium) {
+    @include grid-media ($small) {
         //@include omega();
     }
 }
 /// Remove widths for grids
 @supports (display: grid) {
-  .gallery-box-50,
-  .gallery-box,
-  .gallery-box-large,
-  .gallery-box-home {
+  .gallery--box-50,
+  .gallery--box,
+  .gallery--box-large,
+  .gallery--box-home {
     width: auto;
   }
 }

@@ -1,9 +1,9 @@
 # External gems - updated to plugins in jekyll v3.6
 plugins:
- # - jekyll-archives # Sorry, not GitHub pages friendly!
-  - jekyll-sitemap
-  - jekyll-assets
-  - autoprefixer-rails
+   - jekyll-seo-tag
+   - jekyll-sitemap
+ # - jekyll-assets
+ # - autoprefixer-rails
 
 #exclude:
 #  - "/vendor/"
@@ -12,16 +12,16 @@ plugins:
 title: KindleCo
 subtitle: nurturing initiative
 name: KindleCo
-description: An Eye Division site
+description: Nurturing initiative
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://outrageous-hurricane.cloudvent.net"
+url: "https://www.kindleco.co.uk" #"http://outrageous-hurricane.cloudvent.net"
 logo: "/assets/logo.png"
-email: a.ward@eyedivision.com
-
+email: "jobroad@kindleco.co.uk"
+placeholder_image: "/assets/images/leaf-icon.png"
 # Build settings
 markdown: kramdown
 
@@ -32,7 +32,7 @@ highlightjs_theme: "monokai-sublime"
 # Image CDN
 imagecdn:
   staging: "https://ed-kindleco-dev.imgix.net"
-  #production: "https://ed-eyegallery.imgix.net"
+  production: "https://ed-kindleco.imgix.net"
 
 # Collections Example
 collections:
@@ -48,6 +48,52 @@ defaults:
             type: "casestudies"
         values:
             layout: "casestudy"
+    -
+        scope:
+          path: "" # an empty string here means all files in the project
+          type: "posts" # previously `post` in Jekyll 2.2.
+        values:
+          layout: "post"
+
+_options:
+  _text:
+    italic: true
+    bold: true
+    link: true
+    undo: true
+    redo: true
+    underline: true
+    strike: true
+  _block:
+    left: align-left
+    center: center-this-text
+    right: align-right
+    justify: full-width-text
+    undo: true
+    redo: true
+    format: p h1 h2 h3 h4 div
+    numberedlist: true
+    bulletedlist: true
+    indent: true
+    outdent:  true
+    blockquote: true
+    image: true
+    styles: /css/editor.scss
+  content:
+    left: align-left
+    center: center-this-text
+    right: align-right
+    justify: full-width-text
+    undo: true
+    redo: true
+    format: p h1 h2 h3 h4 div
+    numberedlist: true
+    bulletedlist: true
+    indent: true
+    outdent:  true
+    blockquote: true
+    image: true
+    styles: /css/editor.scss
 
 # Payment settings
 # Environment settings
@@ -70,7 +116,7 @@ defaults:
 # disqus_shortname:
 
 # Google analytics
-#ga_tracking_id: ""
+ga_tracking_id: "UA-120511015-1"
 
 # Google Recaptcha used for contact form
 recaptcha_site_key: "6LfnsF0UAAAAAKjnb2DDtrYpGufEu9y6owbSWygR"
@@ -95,14 +141,14 @@ social:
   - name: Facebook
     icon: icon-facebook_sign
     username:
-    url: https://www.facebook.com/eyedivision
+    url:
     desc: Like on Facebook
     share: true
 
   - name: Instagram
     icon: icon-instagram
     username:
-    url: https://instagram.com/eyedivision
+    url:
     desc: Follow me on Instagram
     share: false
 
@@ -110,14 +156,21 @@ social:
     icon: icon-twitter_sign
     username: 'jobroad_kin'
     url: https://twitter.com/jobroad_kin
-    desc: Follow us on Twitter
+    desc: Follow KindleCo on Twitter
     share: true
 
   - name: Pinterest
     icon: icon-pinterest
     username:
-    url: http://uk.pinterest.com/
+    url:
     desc: Follow me on Pinterest
+    share: true
+
+  - name: linkedin
+    icon: icon-linkedin_sign
+    username: jo-broad
+    url: https://uk.linkedin.com/pub/jo-broad/0/666/669
+    desc: Connect with KindleCo on LinkedIn
     share: true
 
 # https://uk.linkedin.com/pub/jo-broad/0/666/669
@@ -127,8 +180,8 @@ social:
 
 protocols:
     fb_image: "/assets/logo.png"
-    fb_image_width: 612
-    fb_image_height: 605
+    fb_image_width: 399
+    fb_image_height: 170
     fb_image_type: "image/png"
 
     twitter_image: "/assets/logo.png"

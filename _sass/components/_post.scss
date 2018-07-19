@@ -2,45 +2,35 @@
 // This file contains global styles for posts
 // -----------------------------------------------------------------------------
 
-.posts-list {
+.posts--list {
     @extend %default-ul !optional;
-    li {
-        padding: modular-scale(-4);
-        padding-left: 0;
-    }
-    .desc {
-        font-size: 0.9em;
-    }
-    .post-date {
-        color: $medium-gray;
-    }
+    //@include grid-container;
+    //@include grid-visual;
 }
-.post-header {
-    padding: 0;
-    h1 {
-        padding-bottom: 0;
-        /*margin-bottom: 0;*/
-    }
-}
-.post-list {
-    padding-top: 1em !important;
-    @extend %default-ul !optional;
-}
-.post-meta {
+
+.post--inlist {
+    border-bottom: 1px solid $action-color;
+    //padding: modular-scale(-4);
+    padding: 1em 0;
     @include grid-container;
-    // padding: 1em 0;
-    color: $medium-gray;
-    .post-date {
-        @include grid-column(6);
-        text-align: left;
-        font-size: 0.9em;
+}
+.post--columns {
+    @include grid-media($small) { // half page width on 488px and above
+        @include grid-column(2);
     }
-    .post-categories {
-        @include grid-column(6);
-        margin-right: 0;
-        text-align: right;
-        font-size: 0.9em;
+}
+.post--caption {
+    @include grid-media($small) { // half page width on 488px and above
+        @include grid-column(3);
     }
+}
+.post--image {
+    @include grid-media($small) { // half page width on 488px and above
+        @include grid-column(1);
+    }
+}
+.post--meta {
+
 }
 .pagination {
     padding-top: 2em;
@@ -51,7 +41,7 @@
     }
 }
 
-///   Posts
+///   Full Posts
 .post {
     ul {
         margin-bottom: 1em;
@@ -61,10 +51,10 @@
             padding: 2em 1em 1em 1em;
         }
     }
-    .post-meta {
+    .post--meta {
         padding-bottom: 1em;
     }
-    .post-content {
+    .post--content {
         padding: 1em 0;
     }
     .tags {
@@ -73,17 +63,17 @@
     .rss {
         margin: 1em 0 0 0;
         @include grid-column(12);
-        @include grid-media ($medium) {
+        @include grid-media ($small) {
             margin: 1em 0;
-            @include grid-column(6);
+            @include grid-column(2);
         }
     }
     .share {
         font-weight: bold;
         margin: 0 0 1em 0;
         @include grid-column(12);
-        @include grid-media ($medium) {
-            @include grid-column(6);
+        @include grid-media ($small) {
+            @include grid-column(2);
             margin: 1em 0;
             text-align: right;
         }
@@ -96,26 +86,27 @@
     .disqus {
         @include grid-column(12);
     }
-    .post-navigation {
-        font-size: 0.9em;
+
+}
+.post--navigation {
+    font-size: 0.9em;
+    display: block;
+    width: auto;
+    .prev--post {
         display: block;
-        width: auto;
-        .prev-post {
-            display: block;
-            width: 50%;
-            float: left;
-            margin: 1em 0;
-        }
-        .next-post {
-            display: block;
-            width: 50%;
-            float: left;
-            margin: 1em 0;
-            text-align: right;
-        }
+        width: 50%;
+        float: left;
+        margin: 1em 0;
+    }
+    .next--post {
+        display: block;
+        width: 50%;
+        float: left;
+        margin: 1em 0;
+        text-align: right;
     }
 }
-.post-nav {
+.post--nav {
     text-align: center;
     border-top: 1px solid $light-gray;
     padding: 1em 0;
