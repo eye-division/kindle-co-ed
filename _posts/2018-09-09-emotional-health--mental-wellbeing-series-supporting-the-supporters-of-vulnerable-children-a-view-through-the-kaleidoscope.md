@@ -103,7 +103,7 @@ So, I have begun *a journey of 'curious enquiry'* with a range of organisations,
 
 A sort of **3 - way lens** has been slowly but surely building of professional, stakeholder and personal perspectives over the past decade.&nbsp;**It's a multi-faceted, colourful and sometimes overwhelming kaleidoscope view** but one which I committed to deploying for the greater good, wherever possible and practicable.
 
-**There is a debate to be had nationally,** about how to resource and **systematize the maintaining of ALL adults in a team** **around a child** so that they remain healthy, objective and able to stay the course, without frazzling away into oblivion. Experts would refer to [**Psychodynamic Theory &** Relational]((https://mulberrybush.org.uk/the-work-of-mbs/#.WzISzdVKiM8))&nbsp;Practice.
+**There is a debate to be had nationally,** about how to resource and **systematize the maintaining of ALL adults in a team** **around a child** so that they remain healthy, objective and able to stay the course, without frazzling away into oblivion. Experts would refer to [**Psychodynamic Theory &**&nbsp;Reflective and Relational](https://mulberrybush.org.uk/outreach-cpd-others/#.W1CXftVKiM8)&nbsp;Practice.
 
 But to many parents, this would simply be about 'team skills'&nbsp; and 'Mental Health'.&nbsp;
 
