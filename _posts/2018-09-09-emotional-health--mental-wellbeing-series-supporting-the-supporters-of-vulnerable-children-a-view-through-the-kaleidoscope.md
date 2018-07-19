@@ -37,7 +37,7 @@ However there was nothing on the formal Agenda,&nbsp; and little or no discussio
 
 > **No-one tabled the question:** *how do adults process the emotional impact of their work, on themselves, and those around them?&nbsp;***In a room full of Health professionals, this seemed strangely at odds** with the realities so many adults face, in the course of our daily task.
 
-![](/uploads/children-champion-quote.PNG)
+![](/uploads/truth-queue-pic.PNG)
 
 For those forming a team around a child, either at work or at home, many fall entirely outside any concrete system of support for their role, which is focused on their own wellbeing. There is a lack of support which is&nbsp;**systematised, and rooted in evidence-based practice, to help all the adults involved,** at least not a system which is restricted to those carrying out the role of Foster or Corporate Parent.
 
@@ -64,9 +64,9 @@ In the past decade, I have become acutely aware through my professional work and
 
 That's partly because the toll it takes on a vulnerable child, just trying to live & learn in our schools and in our communities, whilst plotting a course through their own emotional turmoil, is immense. That's regardless of self-efficacy, graft, quality of professional input, eventual resilience and outcomes.
 
-> **If it is immense for the child, it's immense for the adult.**
+> **If it is immense for the child, it's gonna be immense for the adult.**
 
-![](/uploads/truth-queue-pic.PNG)
+![](/uploads/children-champion-quote.PNG)
 
 The vast majority of parents,&nbsp; Corporate and otherwise, want to meet these challenges in full, selflessly, with gusto & dedication and be an effective agent for that child's own life ambitions. Yet, it struck me so much that day back in 2015 and since, how much we lack a national system which helps all the relevant adults process their work emotionally, which is equitable in access, and borne of an evidence-base.
 
