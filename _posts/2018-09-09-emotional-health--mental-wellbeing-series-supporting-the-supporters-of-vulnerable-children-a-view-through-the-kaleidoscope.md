@@ -87,9 +87,9 @@ Friends are good (especially those that are treading a similar path) but there a
 
 **For many parent-carers, there is a need to process the emotions that come up when:**
 
-* you feel **de-skilled** around your child (parents are frequently trying out fresh strategies which they are given to support an aspect of their child's development);
-* or **disempowered** in an agency meeting (this happens quite alot when professionals are discussing what they will and won't give your child); &nbsp;
-* or to handle that strange, ***semi- disabling outbreak of 'over-empathy***' …… you know the sort that seeps into your brain when you leave a conversation with over-worked, **under-resourced public sector professionals** who have just forgotten to implement a key part of your child's support plan …… but you've got to tackle it head on with them anyway..?
+* ![](/uploads/kindle-templates-bullet-1.jpg)you feel **de-skilled** around your child (parents are frequently trying out fresh strategies which they are given to support an aspect of their child's development);
+* ![](/uploads/kindle-templates-bullet-1.jpg)or **disempowered** in an agency meeting (this happens quite alot when professionals are discussing what they will and won't give your child); &nbsp;
+* ![](/uploads/kindle-templates-bullet-1.jpg)or to handle that strange, ***semi- disabling outbreak of 'over-empathy***' …… you know the sort that seeps into your brain when you leave a conversation with over-worked, **under-resourced public sector professionals** who have just forgotten to implement a key part of your child's support plan …… but you've got to tackle it head on with them anyway..?
 
 There is of course, a smattering of (valued) opportunities from the third sector for P-Cs in their localities, often involving taking their child to an event which in itself, can be challenging. There is also on-line access to guidance (again valued) on which to call to help P-Cs advocate for their children's cases with the pubic sector.
 
