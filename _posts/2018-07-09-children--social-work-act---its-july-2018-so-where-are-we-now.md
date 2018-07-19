@@ -32,19 +32,24 @@ The **Education & Adoption Act** (2015) - with its focus on subregional 'cluster
 
 Then there has been the rise of '***sector-led improvement***' models, which the Schools sector has been grappling with for some time. The 2016 'Putting Children First' paper then gave expression to this, as a clearly signalled plank in the Act's reform of the Social Work sector - &nbsp;including who is seen to 'thought-lead' and who is in its organic '**community of practice**'.
 
-And then there is '***Co Production***' - and &nbsp; the brave new world of the **Children & Families Act** (2014). For those with SEND, this should pivot on collaborative, person-centered decision-making between agencies, their representatives in the field, the child and their family. In itself, Co Production is not a funding mechanism but certainly, it was meant to be a string influencer in what money comes out of Government, where it goes and what it is used for.
+And then there is '***Co Production***' - and &nbsp; the brave new world of the **Children & Families Act** (2014). For those with SEND, this should pivot on collaborative, person-centered decision-making between agencies, their representatives in the field, the child and their family. In itself, Co Production is not a funding mechanism but certainly, it was meant to be a strong influence on what money comes out of Government, where it goes and what it is used for to support SEND.
 
-At the time of writing, this week brings an announcement by **[NCB](https://www.ncb.org.uk/news-opinion/news-highlights/ncb-lead-development-new-approaches-safeguarding)** and **[DfE](https://www.gov.uk/government/publications/working-together-to-safeguard-children--2)** of a national pilot, to be tested in the regions, of the long awaited re-structure of local Safeguarding arrangements outlined in the C&SW Act. **Local Children's Safeguarding Boards**&nbsp;are to be 'retired'. Fresh statutory impetus will fall on the a single 'multi-agency' effort of **Police**, **LAs** & **Health**.
+At the time of writing, this week brings an announcement by **[NCB](https://www.ncb.org.uk/news-opinion/news-highlights/ncb-lead-development-new-approaches-safeguarding)** and **[DfE](https://www.gov.uk/government/publications/working-together-to-safeguard-children--2)** of a national pilot, to be tested in the regions, of the long awaited re-structure of local Safeguarding agency arrangements.This move was clearly outlined in Putting Children First and set out in the Act. So implementation should not come as a surprise:&nbsp;**Local Children's Safeguarding Boards**&nbsp;are to be 'retired'. Fresh statutory impetus will fall on the a single 'multi-agency' effort of **Police**, **LAs** & **Health**.
 
-So new **multi-agency agreements, will be key**. But more than that, **collaborative working, will be paramount** in pulling off effectiveness. Collective responsibility is not entirely the same as Collaboration however, and the challenges to systems thinking, strategic planning and culture, will be many.
+So, new **multi-agency agreements, will be key**.
 
-**So where does all this leave us at the present time with respect to implentation?&nbsp;**
+But more than that, **collaborative working, will be paramount** in pulling off effectiveness.
 
-**I have re-produced below here, an analysis I first published here back in December 2016** after "Putting Children First" rolled off the press. This draws a picture of the '**sector shifts**' that we are all in the midst of, knowingly or otherwise.
+> Collective responsibility is not entirely the same as Collaboration. The challenges to systems thinking, strategic planning and culture, to effect meaningful implementation, will be many.
+> {: .callout}
+
+**So where does all this leave us at the present time with respect to delivery on the Act?&nbsp;**
+
+**I have re-produced here, an analysis I first published on my (old) website, back in December 2016** after "Putting Children First" rolled off the press. This draws a picture of the '**sector shifts**' that we are all in the midst of, consciously, or otherwise.
 
 Some points are specific parts of the Act, some are my own expression of the 'sector levers' which I see as at play in shaping the flow of money, decision- making and influence through the wider public sector 'economy'. &nbsp;
 
-**A neat summary of what to focus on could be expressed thus:**
+**A summary could be expressed thus:**
 
 **Regional and sub-regional commissioning of services:** a need for collaborative working across traditional Public Sector geographical boundaries
 
