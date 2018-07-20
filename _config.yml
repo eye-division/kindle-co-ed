@@ -65,6 +65,9 @@ _options:
     underline: true
     strike: true
   _block:
+    italic: true
+    bold: true
+    link: true
     left: align-left
     center: center-this-text
     right: align-right
@@ -80,10 +83,14 @@ _options:
     image: true
     styles: /css/editor.scss
   content:
+    italic: true
+    bold: true
+    link: true
     left: align-left
     center: center-this-text
     right: align-right
     justify: full-width-text
+    link: true
     undo: true
     redo: true
     format: p h1 h2 h3 h4 div
