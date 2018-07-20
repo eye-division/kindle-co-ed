@@ -45,24 +45,22 @@ Social Workers and Clinicians attending that day back in 2015, were able to cite
 
 **Foster Carers** were more likely to be viewed as Professionals and could access training through Local Authority generated support; **Adoptive Parents** felt almost on their own 'post-&nbsp; permanence'.
 
-What was discussed was entirely inequitable in its accessibility to all those adults who would typically form a **Team around a Child**.
-
 > ***Then there were Parent-Carers: this turned up a zero.***
 >
 >
 > There is **no 'workplace' support scheme for parent-carers,** despite many P-Cs of vulnerable children finding themselves in the workplace (usually other people's) very frequently. Those are the parents of young people with **SEN**, **Disabilities** and with enduring **Health** needs, who typically have to pitch up to a publically-funded statutory agency setting, numerous times a year.
 
-**Truth to be told, there were not many P-Cs at the event**. Not surprising when you consider it was in the working day, aimed very much at Agency representatives, and was about statutory guidance…. it can all seem quite dull if you are not that way inclined. I'm part Policy- nerd, part human, so thoroughly enjoyed myself in a professional capacity, having recently stepped back into the workplace, after a hugely extended stint on maternity leave.
+Truth to be told, there were not many Parent - Carers at the event. Not surprising when you consider it was in the working day, aimed very much at Agency representatives, and was about statutory guidance…. it can all seem quite dull if you are not that way inclined. I'm part Policy- nerd, part human, so thoroughly enjoyed myself in a professional capacity, having not long before, stepped back into the workplace after a hugely extended stint on maternity leave.
 
-But in families, whose **children are not Looked After by the state, live at home** and are indeed **highly Vulnerable**, what happens to the **mental state of the adults,** when they find themselves unwittingly **at the front line** of both child's **emotional needs** at home, and, the '**services**' negotiating grounds?
+But in families, whose **children are not Looked After by the state, who live at home** and are indeed **highly Vulnerable**, what happens to the **mental state of the adults**&nbsp;when they find themselves unwittingly **at the front line** of both child's **emotional needs** at home, and, the '**services**' negotiating grounds? It can feel like a strange altered reality espcially if you are new to it.
 
-Most parent-carers, given a suitably 'safe - (**non-judgemental, non-pathologising**)- space', would say, **it's a massive challenge**.
+Many parent-carers, given a suitably 'safe - (**non-judgemental, non-pathologising**)- space', would say, **it's a massive challenge**.
 
 In the past decade, I have become acutely aware through my professional work and the community circles I move in, of the toll it takes those adults (any adult) supporting vulnerable children directly.
 
-That's partly because the toll it takes on a vulnerable child, just trying to live & learn in our schools and in our communities, whilst plotting a course through their own emotional turmoil, is immense. That's regardless of self-efficacy, graft, quality of professional input, eventual resilience and outcomes.
+That's partly because the toll it takes on a vulnerable child, just trying to live & learn in our schools and in our communities, whilst plotting a course through their own emotional turmoil, is immense. That's regardless of self-efficacy, quality of professional input, levels of resilience and eventual outcomes.
 
-> **If it is immense for the child, it's gonna be immense for the adult.**
+**If it is immense for the child, it's often immense for the adult. There is no weakness in acknowledging that, or at least, there shouldn't be.**
 
 ![](/uploads/children-champion-quote.PNG)
 
