@@ -1,5 +1,5 @@
 ---
-title: 'Destination Skills: Airport innovation for young people out of work'
+title: 'Destination Skills: Airport innovation for young NEETs'
 permalink: /casestudies/airport-innovation-for-young-people-out-of-work/
 project_date:
 project_to_date:
