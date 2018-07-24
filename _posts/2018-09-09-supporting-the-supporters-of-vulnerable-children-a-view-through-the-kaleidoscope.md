@@ -37,7 +37,7 @@ However there was nothing on the formal Agenda,&nbsp; and little or no discussio
 
 &nbsp;
 
-For those forming a team around a child, either at work or at home, many fall entirely outside any concrete system of support for their role, which is focused on their own wellbeing. There is a lack of support which is&nbsp;**systematised, and rooted in evidence-based practice, to help all the adults involved,** at least not one system which is equitable in its access.
+For those forming a team around a child, either at work or at home, many fall entirely outside any concrete system of support for their role, which is focused on their own wellbeing. There is a lack of support which is&nbsp;**systematised, and rooted in evidence-based practice, to help all the adults involved,** at least not a system which is equitable in its access.
 
 What support there is, tends to be **lopsided in who can access it**, and is either about **practice-development** when delivering with the child, about the **mechanics of discharging statutory duties**, or perhaps&nbsp;**arms-length counselling** for individuals. The latter tends to be through services which are fundamentally **disconnected to the 'Team' environment**.
 
