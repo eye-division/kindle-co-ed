@@ -41,13 +41,12 @@ For those forming a team around a child, either at work or at home, many fall en
 
 What support there is, tends to be **lopsided in who can access it.**&nbsp;There is&nbsp;**arms-length counselling** for individuals accessible via a GP, if your local area can resource this. But these services are fundamentally **disconnected to the 'Team' environment**.
 
-Social Workers and Clinicians attending that day back in 2015, were able to cite some existing structures in the workplace, including '***Supervision***'. By and large, Education professionals were not. A supportive Line Manager was a close as it got.
+**Social Workers** and **Clinicians** attending that day back in 2015, were able to cite some existing structures in the workplace, including '***Supervision***'. By and large, **Education professionals** were not. A supportive Line Manager was a close as it got.
 
-**Foster Carers** were more likely to be viewed as Professionals and could access training through Local Authority generated support; **Adoptive Parents** felt almost on their own 'post-&nbsp; permanence'.
+**Foster Carers** were more likely to be viewed as Professionals and could access training through Local Authority generated support; **Adoptive Parents** felt almost on their own 'post-&nbsp; permanence'.&nbsp;
 
-> ***Then there were Parent-Carers: this turned up a zero.***
->
->
+> *Then there were* ***Parent-Carers: ****this turned up a zero, systemically-speaking.*
+
 > There is **no 'workplace' support scheme for parent-carers,** despite many P-Cs of vulnerable children finding themselves in the workplace (usually other people's) very frequently. Those are the parents of young people with **SEN**, **Disabilities** and with enduring **Health** needs, who typically have to pitch up to a publically-funded statutory agency setting, numerous times a year.
 
 Truth to be told, there were not many Parent - Carers at the event. Not surprising when you consider it was in the working day, aimed very much at Agency representatives, and was about statutory guidance…. it can all seem quite dull if you are not that way inclined. I'm part Policy- nerd, part human, so thoroughly enjoyed myself in a professional capacity, having not long before, stepped back into the workplace after a hugely extended stint on maternity leave.
