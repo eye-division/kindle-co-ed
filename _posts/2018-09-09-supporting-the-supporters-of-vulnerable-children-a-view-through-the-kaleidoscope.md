@@ -39,7 +39,7 @@ However there was nothing on the formal Agenda,&nbsp; and little or no discussio
 
 For those forming a team around a child, either at work or at home, many fall entirely outside any concrete system of support for their role, which is focused on their own wellbeing. There is a lack of support which is&nbsp;**systematised, and rooted in evidence-based practice, to help all the adults involved,** at least not a system which is equitable in its access.
 
-What support there is, tends to be **lopsided in who can access it**, and is either about **practice-development** when delivering with the child, about the **mechanics of discharging statutory duties**, or perhaps&nbsp;**arms-length counselling** for individuals. The latter tends to be through services which are fundamentally **disconnected to the 'Team' environment**.
+What support there is, tends to be **lopsided in who can access it.**&nbsp;There is&nbsp;**arms-length counselling** for individuals accessible via a GP, if your local area can resource this. But these services are fundamentally **disconnected to the 'Team' environment**.
 
 Social Workers and Clinicians attending that day back in 2015, were able to cite some existing structures in the workplace, including '***Supervision***'. By and large, Education professionals were not. A supportive Line Manager was a close as it got.
 
