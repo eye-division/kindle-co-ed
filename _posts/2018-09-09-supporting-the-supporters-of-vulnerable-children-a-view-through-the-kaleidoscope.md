@@ -47,7 +47,9 @@ What support there is, tends to be **lopsided in who can access it.**&nbsp;There
 
 > *Then there were* ***Parent-Carers: ****this turned up a zero, systemically-speaking.*
 
-> There is **no 'workplace' support scheme for parent-carers,** despite many P-Cs of vulnerable children finding themselves in the workplace (usually other people's) very frequently. Those are the parents of young people with **SEN**, **Disabilities** and with enduring **Health** needs, who typically have to pitch up to a publically-funded statutory agency setting, numerous times a year.
+> There is **no 'workplace' support scheme for parent-carers,** despite many P-Cs of vulnerable children finding themselves in the workplace (usually other people's) very frequently. Those parents of young people with **SEN**, **Disabilities** or with enduring **Health** needs, typically have to pitch up to a publically-funded statutory agency setting, numerous times a year.
+
+It can be great: enriching, helpful and effective with the child; it has been for some folk I know, the opposite of that.
 
 Truth to be told, there were not many Parent - Carers at the event. Not surprising when you consider it was in the working day, aimed very much at Agency representatives, and was about statutory guidance…. it can all seem quite dull if you are not that way inclined. I'm part Policy- nerd, part human, so thoroughly enjoyed myself in a professional capacity, having not long before, stepped back into the workplace after a hugely extended stint on maternity leave.
 
