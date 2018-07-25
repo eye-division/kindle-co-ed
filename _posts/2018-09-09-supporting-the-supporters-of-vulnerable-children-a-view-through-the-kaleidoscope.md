@@ -37,18 +37,19 @@ However there was nothing on the formal Agenda,&nbsp; and little or no discussio
 
 &nbsp;
 
-For those forming a team around a child, either at work or at home, many fall entirely outside any concrete system of support for their role, which is focused on their own wellbeing. There is a lack of support which is&nbsp;**systematised, and rooted in evidence-based practice, to help all the adults involved,** at least not one system which is equitable in its access.
+For those forming a team around a child, either at work or at home, many fall entirely outside any concrete system of support for their role, which is focused on their own wellbeing. There is a lack of support which is&nbsp;**systematised, and rooted in evidence-based practice, to help all the adults involved,** at least not a system which is equitable in its access.
 
-What support there is, tends to be **lopsided in who can access it**, and is either about **practice-development** when delivering with the child, about the **mechanics of discharging statutory duties**, or perhaps&nbsp;**arms-length counselling** for individuals. The latter tends to be through services which are fundamentally **disconnected to the 'Team' environment**.
+What support there is, tends to be **lopsided in who can access it.**&nbsp;There is&nbsp;**arms-length counselling** for individuals accessible via a GP, if your local area can resource this. But these services are fundamentally **disconnected to the 'Team' environment**.
 
-Social Workers and Clinicians attending that day back in 2015, were able to cite some existing structures in the workplace, including '***Supervision***'. By and large, Education professionals were not. A supportive Line Manager was a close as it got.
+**Social Workers** and **Clinicians** attending that day back in 2015, were able to cite some existing structures in the workplace, including '***Supervision***'. By and large, **Education professionals** were not. A supportive Line Manager was a close as it got.
 
-**Foster Carers** were more likely to be viewed as Professionals and could access training through Local Authority generated support; **Adoptive Parents** felt almost on their own 'post-&nbsp; permanence'.
+**Foster Carers** were more likely to be viewed as Professionals and could access training through Local Authority generated support; **Adoptive Parents** felt almost on their own 'post-&nbsp; permanence'.&nbsp;
 
-> ***Then there were Parent-Carers: this turned up a zero.***
->
->
-> There is **no 'workplace' support scheme for parent-carers,** despite many P-Cs of vulnerable children finding themselves in the workplace (usually other people's) very frequently. Those are the parents of young people with **SEN**, **Disabilities** and with enduring **Health** needs, who typically have to pitch up to a publically-funded statutory agency setting, numerous times a year.
+> *Then there were* ***Parent-Carers: ****this turned up a zero, systemically-speaking.*
+
+> There is **no 'workplace' support scheme for parent-carers,** despite many P-Cs of vulnerable children finding themselves in the workplace (usually other people's) very frequently. Those parents of young people with **SEN**, **Disabilities** or with enduring **Health** needs, typically have to pitch up to a publically-funded statutory agency setting, numerous times a year.
+
+It can be great: enriching, helpful and effective with the child; it has been for some folk I know, the opposite of that.
 
 Truth to be told, there were not many Parent - Carers at the event. Not surprising when you consider it was in the working day, aimed very much at Agency representatives, and was about statutory guidance…. it can all seem quite dull if you are not that way inclined. I'm part Policy- nerd, part human, so thoroughly enjoyed myself in a professional capacity, having not long before, stepped back into the workplace after a hugely extended stint on maternity leave.
 
@@ -73,17 +74,19 @@ Friends are good (especially those that are treading a similar path) but there a
 > ***There is a need for something that extends beyond informal cups of coffee***
 >
 >
-> ![](/uploads/minions-humour-freindship-pic.jpg)
+> &nbsp;
 
-**Parent-Carers do get asked alot, to consult on other people's corporate plans**: - not that parent-carers mind this-&nbsp; but when it's the only mode of interaction with public agencies and their arms-length partners, being repeatedly asked minus any actual support, can get a little wearing.&nbsp;
+**Parent-Carers do get asked alot, to consult on other people's corporate plans**: - not that parent-carers mind this, but when it's the only mode of interaction with public agencies and their arms-length partners, being repeatedly asked minus any actual support, can get a little wearing. There is valued on-line guidance on which P-Cs can call for help, to advocate for their children's cases within the pubic sector. But that is not quite the same thing.
 
 **For many parent-carers, there is a need to process the emotions that come up when:**
 
-* ![](/uploads/kindle-templates-bullet-1.jpg)you feel **de-skilled** around your child (parents are frequently trying out fresh strategies which they are given to support an aspect of their child's development);
-* ![](/uploads/kindle-templates-bullet-1.jpg)or **disempowered** in an agency meeting (this happens quite alot when professionals are discussing what they will and won't give your child); &nbsp;
-* ![](/uploads/kindle-templates-bullet-1.jpg)or to handle that strange, ***semi- disabling outbreak of 'over-empathy***' …… you know the sort that seeps into your brain when you leave a conversation with over-worked, **under-resourced public sector professionals** who have just forgotten to implement a key part of your child's support plan …… but you've got to tackle it head on with them anyway..?
+* ![](/uploads/kindle-templates-bullet-1.jpg)you feel **de-skilled** around your child: parents are frequently trying out fresh strategies which they are given by professionals, or which they train themselves in, to support an aspect of their child's development;
+* ![](/uploads/kindle-templates-bullet-1.jpg)or **disempowered** in an agency meeting: this can happen when professionals are discussing what they will, and won't, give your child according to assessment of need and increasingly, available resources; &nbsp;
+* ![](/uploads/kindle-templates-bullet-1.jpg)a ***semi- disabling outbreak of empathy***&nbsp;seeps into your brain after leaving a conversation with an otherwise skilled, dedicated but over-worked &&nbsp;**under-resourced public sector professional......or the feelings of frustration** when you have to accept someone in a key role who is coasting and sloppy.&nbsp;When key parts of your child's support plan fail to be managed or implemented, parents have to tackle that head on for their child's sake ... how ever considered the approach, it frequently does not go down well, with the receiver.
 
-There is of course, a smattering of (valued) opportunities from the third sector for P-Cs in their localities. There is also on-line access to guidance (again valued) on which to call to help P-Cs advocate for their children's cases with the pubic sector. At the risk of doing a dizzying 360,&nbsp; one must not forget that [**Public Sector Leaders**](https://www.ncb.org.uk/resources-publications/browse-our-publications-catalogue/putting-corporate-parenting-practice) must also take very difficult decisions about **service reform & transformation**. That comes with an emotional cost, especially in an era of heavily - reduced budgets. Lets face it, no-one goes into [**Corporate Parenting** ](https://www.ncb.org.uk/resources-publications/browse-our-publications-catalogue/putting-corporate-parenting-practice)because they enjoy saying 'no' to families.
+Usually, the professional has some sort of group staff room to draw on for support if needed afterwards, and colleagues with whom to refresh strategy, ready for the next meeting. A parent -carer exits those encounters typically, alone. However cohesive your own home, it is not always the best or appropriate receptacle for dumping&nbsp; 'agency overspill' into 10 times a year.
+
+At the risk of doing a dizzying 360,&nbsp; one must not forget that [**Public Sector Leaders**](https://www.ncb.org.uk/resources-publications/browse-our-publications-catalogue/putting-corporate-parenting-practice) must also take very difficult decisions about **service reform & transformation**. That comes with an emotional cost, especially in an era of heavily - reduced budgets. Lets face it, no-one goes into [**Corporate Parenting** ](https://www.ncb.org.uk/resources-publications/browse-our-publications-catalogue/putting-corporate-parenting-practice)because they enjoy saying 'no' to families.
 
 I think I should ad that NCB,&nbsp; as co-organisers of the erstwhile event, are an organisation most definitely banging the drum of [**Co Production**](https://councilfordisabledchildren.org.uk/resources-and-help/im-parent) elsewhere with and for parent-carers. So, no criticism implied of the 2015 event.&nbsp;
 
