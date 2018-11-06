@@ -27,9 +27,7 @@ _comments:
   video_embed: Paste the full EMBED CODE from YouTube or Vimeo here
 ---
 
-Back in the now **dim & distant past of 2015**, new statutory guidance emphasising the importance of Mental Health provision in supporting Looked After Children, was published by Government.
-
-Its arrival was marked by **an excellent event hosted by** [**NCB**](https://www.ncb.org.uk/). Contributors from **DfE** and **DoH** came together with nationally recognised figures in the field of Adoption, and from the 'big three' of&nbsp;**Health**, **Education** and **Social Care**.
+When new statutory guidance emphasising the importance of Mental Health provision in supporting Looked After Children, was published by Government back in 2015, its arrival was marked by **an excellent event hosted by** [**NCB**](https://www.ncb.org.uk/). Contributors from **DfE** and **DoH** came together with nationally recognised figures in the field of Adoption, and from the 'big three' of&nbsp;**Health**, **Education** and **Social Care**.
 
 However there was nothing on the formal Agenda,&nbsp; and little or no discussion amongst delegates at the tables (I was sat next to an extremely lovely gentleman from OFSTED) on the support that might be needed for the adults, working directly with these vulnerable children.
 
@@ -45,7 +43,7 @@ What support there is, tends to be **lopsided in who can access it.**&nbsp;There
 
 **Foster Carers** were more likely to be viewed as Professionals and could access training through Local Authority generated support; **Adoptive Parents** felt almost on their own 'post-&nbsp; permanence'.&nbsp;
 
-> *Then there were* ***Parent-Carers: ****this turned up a zero, systemically-speaking.*
+> *Then there were* ***Parent-Carers: \*\***this turned up a zero, systemically-speaking.*
 
 > There is **no 'workplace' support scheme for parent-carers,** despite many P-Cs of vulnerable children finding themselves in the workplace (usually other people's) very frequently. Those parents of young people with **SEN**, **Disabilities** or with enduring **Health** needs, typically have to pitch up to a publically-funded statutory agency setting, numerous times a year.
 
@@ -82,7 +80,7 @@ Friends are good (especially those that are treading a similar path) but there a
 
 * ![](/uploads/kindle-templates-bullet-1.jpg)you feel **de-skilled** around your child: parents are frequently trying out fresh strategies which they are given by professionals, or which they train themselves in, to support an aspect of their child's development;
 * ![](/uploads/kindle-templates-bullet-1.jpg)or **disempowered** in an agency meeting: this can happen when professionals are discussing what they will, and won't, give your child according to assessment of need and increasingly, available resources; &nbsp;
-* ![](/uploads/kindle-templates-bullet-1.jpg)a ***semi- disabling outbreak of empathy***&nbsp;seeps into your brain after leaving a conversation with an otherwise skilled, dedicated but over-worked &&nbsp;**under-resourced public sector professional......or the feelings of frustration** when you have to accept someone in a key role who is coasting and sloppy.&nbsp;When key parts of your child's support plan fail to be managed or implemented, parents have to tackle that head on for their child's sake ... how ever considered the approach, it frequently does not go down well, with the receiver.
+* ![](/uploads/kindle-templates-bullet-1.jpg)a ***semi- disabling outbreak of empathy***&nbsp;seeps into your brain after leaving a conversation with an otherwise skilled, dedicated but over-worked &&nbsp;**under-resourced public sector professional……or the feelings of frustration** when you have to accept someone in a key role who is coasting and sloppy. When key parts of your child's support plan fail to be managed or implemented, parents have to tackle that head on for their child's sake … how ever considered the approach, it frequently does not go down well, with the receiver.
 
 Usually, the professional has some sort of group staff room to draw on for support if needed afterwards, and colleagues with whom to refresh strategy, ready for the next meeting. A parent -carer exits those encounters typically, alone. However cohesive your own home, it is not always the best or appropriate receptacle for dumping&nbsp; 'agency overspill' into 10 times a year.
 
