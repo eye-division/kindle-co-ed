@@ -84,4 +84,4 @@ Read about NCB's work in partnership with Families through CDC, Sex-Ed Forum, th
 
 Read about the value of [**Reflective Practice**](https://mulberrybush.org.uk/wp-content/uploads/2016/04/MENTAL_HEALTH_POSTER_3.pdf) & [**Supervision**](https://mulberrybush.org.uk/outreach/#.WzIIPNVKiM8) for professionals through the work of the [**Mulberry Bush Organisation**](https://mulberrybush.org.uk/) in Oxfordshire.
 
-&copy; Jo Broad September 2018
+&copy; Jo Broad Autumn 2018
