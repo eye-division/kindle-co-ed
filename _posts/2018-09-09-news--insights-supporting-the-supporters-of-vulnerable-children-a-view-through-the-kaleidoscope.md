@@ -1,7 +1,7 @@
 ---
-title: |-
-  'Supporting the supporters' of vulnerable children: 
-  a view through the  kaleidoscope
+title: >-
+  NEWS & INSIGHTS: 'Supporting the supporters' of vulnerable children: a view
+  through the  kaleidoscope
 date: 2018-09-09 15:21:00
 categories:
   - News
@@ -37,9 +37,9 @@ However there was nothing on the formal Agenda,&nbsp; and little or no discussio
 
 For those forming a team around a child, either at work or at home, many fall entirely outside any concrete system of support for their role which is focused on their own wellbeing. There is a lack of support which is&nbsp;**systematised, rooted in evidence-based practice, and aims to help all the adults involved.**&nbsp;At least not one which is equitable in its access. What support there is, tends to be **lopsided in who can access it:****arms-length counselling** for individuals accessible via a GP, perhaps. But these services are fundamentally **disconnected to the 'Team' environment**.&nbsp;**Social Workers** and **Clinicians** attending that day back in 2015, were able to cite some existing structures in the workplace, including '***Supervision***'. But by and large, **Education professionals** were not. A supportive Line Manager was a close as it got.&nbsp;**Foster Carers** were more likely to be viewed as Professionals and could access training through Local Authority generated support; **Adoptive Parents** felt almost on their own 'post-&nbsp; permanence'.&nbsp;
 
-> *Then there were* ***Parent-Carers:** this turned up a zero, systemically-speaking.*&nbsp;There is **no 'workplace' support scheme for parent-carers,** despite many parents of vulnerable children finding themselves in the workplace (usually other people's) very frequently. Carers of young people with **SEN**, **Disabilities** or with enduring **Health** needs, typically have to pitch up to a publically-funded statutory agency setting, numerous times a year. These encounters &nbsp;can be great: enriching, helpful and effective. But it can turn out to be, for folk I know, to be an experience which is the opposite of that.
+> *Then there were* ***Parent-Carers:\*\* this turned up a zero, systemically-speaking.*&nbsp;There is \*\*no 'workplace' support scheme for parent-carers,** despite many parents of vulnerable children finding themselves in the workplace (usually other people's) very frequently. Carers of young people with **SEN**, **Disabilities** or with enduring **Health** needs, typically have to pitch up to a publically-funded statutory agency setting, numerous times a year. These encounters &nbsp;can be great: enriching, helpful and effective. But it can turn out to be, for folk I know, to be an experience which is the opposite of that.
 
-Truth to be told, there were not many Parent - Carers at the event. Not surprising when you consider it was in the working day, aimed very much at Agency representatives, and was about statutory guidance…. it can all seem quite dull if you are not that way inclined. I thoroughly enjoyed myself in a professional capacity, having not long before, stepped back into the workplace after a hugely extended stint on maternity leave.
+Truth to be told, there were not many Parent - Carers at the event. Not surprising when you consider it was in the working day, aimed very much at Agency representatives, and was about statutory guidance…. it can all seem quite dull if you are not that way inclined. I thoroughly enjoyed myself in a professional capacity, having not long before, stepped back into the workplace after a hugely extended stint on maternity leave.&nbsp;
 
 But in families whose **children live at home** and are indeed **highly Vulnerable**, what happens to the **mental state of the adults**&nbsp;when they find themselves unwittingly **at the front line** of both child's **emotional needs** at home, and the '**services**' negotiating grounds? It can feel like a strange altered reality especially if you are new to it all.
 
