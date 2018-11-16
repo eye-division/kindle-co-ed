@@ -27,7 +27,7 @@ _comments:
   video_embed: Paste the full EMBED CODE from YouTube or Vimeo here
 ---
 
-In a reflective piece, I seek to explore some of the systems-level inequities built-in to the national resources, agency infrastructures and working practices around adults supporting Vulnerable Children, including those with #Mental Health & #Disabilities.&nbsp;
+In a reflective piece, I seek to explore some of the systems-level inequities built-in to the national resources, agency infrastructures and working practices around adults supporting Vulnerable Children, including young people with #Mental Health & #Disabilities.&nbsp;
 
 When new statutory guidance emphasising the importance of Mental Health provision in supporting Looked After Children, was published by Government back in 2015, its arrival was marked by **an excellent event hosted by** [**NCB**](https://www.ncb.org.uk/). Contributors from **DfE** and **DoH** came together with nationally recognised figures in the field of Adoption, and from the 'big three' of&nbsp;**Health**, **Education** and **Social Care**.
 
