@@ -66,7 +66,7 @@ There are providers out there, doing some fantastic work with Professionals and 
 
 Usually, the professional has some sort of group staff room to draw on for support if needed afterwards. Colleagues with whom to refresh strategy, ready for the next meeting. A parent -carer exits those encounters typically alone. However cohesive your own home, it is not always the best or appropriate receptacle for dumping&nbsp; 'agency overspill' into 10 times a year.
 
-One must also not forget that Public Sector Leaders have to take very difficult decisions about **service reform & transformation**. That comes with an emotional cost, especially in an era of heavily - reduced budgets. Lets face it, no-one goes into **Corporate Parenting**&nbsp;because they enjoy saying 'no' to families, do they?
+One must also not forget that Public Sector Leaders have to take very difficult decisions about **service reform & transformation**. That comes with an emotional cost, especially in an era of heavily - reduced budgets. Lets face it, no-one goes into &nbsp;**Corporate Parenting**&nbsp;because they enjoy saying 'no' to families, do they?
 
 So, I have begun *a journey of 'curious enquiry'* with a range of organisations, sector -level stakeholder groups and with individuals, with who I am fortunate to have regular contact. A sort of **3 - way lens** has been slowly but surely building of professional, stakeholder and personal perspectives over the past decade.&nbsp;**It's a multi-faceted, colourful and sometimes overwhelming kaleidoscope view,** but one which I committed to deploying for the greater good wherever possible and practicable.
 
