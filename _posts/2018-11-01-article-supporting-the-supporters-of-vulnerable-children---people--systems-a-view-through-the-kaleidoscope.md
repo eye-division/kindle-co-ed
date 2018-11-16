@@ -1,7 +1,7 @@
 ---
 title: >-
-  ARTICLE: 'Supporting the supporters' of vulnerable children - a view through
-  the  kaleidoscope
+  ARTICLE: 'Supporting the supporters' of vulnerable children - people &
+  systems: a view through the kaleidoscope
 date: 2018-11-01 15:21:00
 categories:
   - News
