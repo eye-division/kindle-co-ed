@@ -15,8 +15,8 @@ h6 {
   font-family: $heading-font-family;
   font-size: $base-font-size;
   line-height: $heading-line-height;
-  margin: 0 0 $base-font-size;
-  margin: 0 0 rem($base-font-size);
+  margin: 0 0 $base-font-size/2;
+  margin: 0 0 rem($base-font-size)/2;
   color: $action-color;
 }
 h1 {
@@ -87,4 +87,11 @@ blockquote {
 
 strong {
   color: $action-color;
+}
+
+/* visible mobile only */
+.visible--small {
+  @include grid-media ($large) {
+    display: none;
+  }
 }
