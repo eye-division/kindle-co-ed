@@ -18,9 +18,15 @@ tags:
 order: 3
 ---
 
-KindleCo successfully bid to design and deliver the organisational modelling and&nbsp; **sector-level stakeholder consultation**, to shape the future of the DfE / DCMS national Creative Partnerships initiative in the South East. The contract purpose was to **provide an exit strategy for the end of this centrally-run Government programme** both for the sponsoring agency, Arts Council South East, and the multitude of **strategic and operations partners** engaged in the Programme since inception. This was to help&nbsp;**ensure a legacy for the investment for Government** and for the programme's **end -beneficiaries of Teachers, Artists and Children & Young People themselves**. It was also to **provide a route map for the exit** and beyond as a **transition bridge** to the future, **establish tolerances in the potential business model** and help **scope future partners and purpose**. In short to **provide a structure on which to hang next steps**, thus providing **momentum for all stakeholders** and safeguarding a **return on investment of public funds**.
+&nbsp;
 
-**KindleCo worked extensively across the region to bring the education, learning, culture, business and economic development communities together in an integrated approach** to support the creative learning infrastructure for children & young people in schools. With multiple stakeholders, KindleCo worked with the national programmes four regional leaders to generated models of how best to grow C.P. beyond its original constituencies.
+KindleCo successfully **bid to design and deliver** the **organisational modelling** and&nbsp; **sector-level stakeholder consultation**, to shape the future of the DfE / DCMS national Creative Partnerships initiative in the South East.
+
+The contract's purpose was to **provide an exit strategy for the end of this centrally-run Government programme** both for the sponsoring agency, Arts Council South East, and the multitude of **strategic and operations partners** engaged in the Programme since inception.
+
+This was to help&nbsp;**ensure a legacy for the investment for Government** and for the programme's **end -beneficiaries of Teachers, Artists and Children & Young People themselves**. It was also to **provide a route map for the exit** and beyond as a **transition bridge** to the future, **establish tolerances in the potential business model** and help **scope future partners and purpose**. In short to **provide a structure on which to hang next steps**, thus providing **momentum for all stakeholders** and safeguarding a **return on investment of public funds**.
+
+**KindleCo worked extensively across the region to bring the education, learning, culture, business and economic development communities together in an integrated approach** to support the creative learning infrastructure for children & young people in schools. With multiple stakeholders, KindleCo worked with the national programmes four regional leaders to generated models of how best to grow Creative Partnerships beyond its original constituencies.&nbsp;
 
 ###### ![](/uploads/artswork-birthday-pic.JPG)
 
@@ -28,10 +34,6 @@ KindleCo successfully bid to design and deliver the organisational modelling and
 
 &nbsp;
 
-## Want To View The Final Report??
+## Outcomes?
 
-If you would like to view the final public report for this Project, produced for our client, [download the PDF](/assets/docs/creativelearninghubssoutheast-future%26feasibility_kindleapril2006.pdf).
-
-## Want To Know Outcomes?
-
-To see an example of an outcomes of the recommendations KindleCo generated for this project, visit: [http://www.cultureshift.org.uk](http://www.cultureshift.org.uk/){: target="link"}
+To see an example of outcomes of the recommendations KindleCo generated for this project, visit: [http://www.cultureshift.org.uk](http://www.cultureshift.org.uk/){: target="link"}
