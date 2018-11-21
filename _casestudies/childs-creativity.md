@@ -34,10 +34,6 @@ This was to help&nbsp;**ensure a legacy for the investment for Government** and 
 
 &nbsp;
 
-## Want To View The Final Report??
+## Outcomes?
 
-Final public report for this Project
-
-## Want To Know Outcomes?
-
-To see an example of an outcomes of the recommendations KindleCo generated for this project, visit: [http://www.cultureshift.org.uk](http://www.cultureshift.org.uk/){: target="link"}
+To see an example of outcomes of the recommendations KindleCo generated for this project, visit: [http://www.cultureshift.org.uk](http://www.cultureshift.org.uk/){: target="link"}
