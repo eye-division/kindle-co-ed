@@ -30,7 +30,7 @@ This was to help&nbsp;**ensure a legacy for the investment for Government** and 
 
 ###### ![](/uploads/artswork-birthday-pic.JPG)
 
-###### Celebrating 30th Birthday of&nbsp;[Artswork](https://artswork.org.uk/)&nbsp;in Nov 2017 with current Artswork CEO and its Chair of Board of Trustees, and former custodians of the Creative Partnerships, South East.
+###### Celebrating 30th Birthday of&nbsp;[Artswork](https://artswork.org.uk/)&nbsp;in Nov 2017 with current Artswork CEO and its Chair of Board of Trustees - the former custodians of the Creative Partnerships, South East.
 
 &nbsp;
 
