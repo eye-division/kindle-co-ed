@@ -18,15 +18,15 @@ tags:
 order: 3
 ---
 
-KindleCo successfully bid to design and deliver the organisational modelling and regional stakeholder consultation and at sector level, to shape the future of the DfE / DCMS national Creative Partnerships initiative in the South East, to support the closing of the centrally-run programme.
+KindleCo successfully bid to design and deliver the organisational modelling and&nbsp; **sector-level stakeholder consultation**, to shape the future of the DfE / DCMS national Creative Partnerships initiative in the South East. The contract purpose was to **provide an exit strategy for the end of this centrally-run Government programme** both for the sponsoring agency, Arts Council South East, and the multitude of **strategic and operations partners** engaged in the Programme since inception. This was to help&nbsp;**ensure a legacy for the investment for Government** and for the programme's **end -beneficiaries of Teachers, Artists and Children & Young People themselves**. It was also to **provide a route map for the exit** and beyond as a **transition bridge** to the future, **establish tolerances in the potential business model** and help **scope future partners and purpose**. In short to **provide a structure on which to hang next steps**, thus providing **momentum for all stakeholders** and safeguarding a **return on investment of public funds**.
 
-KindleCo worked extensively across the region to bring the education, learning, culture, business and economic development communities together in an integrated approach to support the creative learning infrastructure for children & young people in schools. With multiple stakeholders, KindleCo worked with the national programmes four regional leaders to generated models of how best to grow C.P. beyond its original constituencies.
+**KindleCo worked extensively across the region to bring the education, learning, culture, business and economic development communities together in an integrated approach** to support the creative learning infrastructure for children & young people in schools. With multiple stakeholders, KindleCo worked with the national programmes four regional leaders to generated models of how best to grow C.P. beyond its original constituencies.
 
 ###### ![](/uploads/artswork-birthday-pic.JPG)
 
-###### Celebrating 30th Birthday of&nbsp;[Artswork](https://artswork.org.uk/)&nbsp;in Nov 2017 with former Arts Council colleagues now Artswork CEO & Chair of Trustees
+###### Celebrating 30th Birthday of&nbsp;[Artswork](https://artswork.org.uk/)&nbsp;in Nov 2017 with current Artswork CEO and its Chair of Board of Trustees, and former custodians of the Creative Partnerships, South East.
 
-We worked with the regional partners to generate sustainable business models for programme leaders & a wide range of stakeholders to create a road map to the future.
+&nbsp;
 
 ## Want To View The Final Report??
 
