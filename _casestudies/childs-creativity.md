@@ -36,7 +36,7 @@ This was to help&nbsp;**ensure a legacy for the investment for Government** and 
 
 ## Want To View The Final Report??
 
-If you would like to view the final public report for this Project, produced for our client, [download the PDF](/assets/docs/creativelearninghubssoutheast-future%26feasibility_kindleapril2006.pdf).
+Final public report for this Project
 
 ## Want To Know Outcomes?
 
