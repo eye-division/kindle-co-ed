@@ -37,6 +37,8 @@ However there was nothing on the formal Agenda,&nbsp; and little or no discussio
 
 > **No-one tabled the question:** *how do adults process the emotional impact of their work, on themselves, and those around them?***In a room full of Health professionals, this seemed strangely at odds** with the realities so many adults face, in the course of our daily task.
 
+I will say clearly here that **NCB,&nbsp;** as co-organisers of the erstwhile event, are an organisation **most definitely banging the drum of Co Production** elsewhere with and for,&nbsp;**parent-carers**. So, **no criticism implied of the 2015 gathering**. You can see more of their work with parent-carers, **via the video link above**.
+
 For those forming a team around a child, either at work or at home, many fall entirely outside any concrete system of support for their role which is focused on their own wellbeing. There is a lack of support which is&nbsp;**systematised, rooted in evidence-based practice, and aims to help all the adults involved.**&nbsp;At least not one which is equitable in its access.
 
 What support there is, tends to be **lopsided in who can access it:****arms-length counselling** for individuals accessible via a GP, perhaps. But these services are fundamentally **disconnected to the 'Team' environment**.&nbsp;**Social Workers** and **Clinicians** attending that day back in 2015, were able to cite some existing structures in the workplace, including '***Supervision***'. But by and large, **Education professionals** were not. A supportive Line Manager was a close as it got.&nbsp;**Foster Carers** were more likely to be viewed as Professionals and could access training through Local Authority generated support; **Adoptive Parents** felt almost on their own 'post-&nbsp; permanence'.&nbsp;
@@ -92,8 +94,6 @@ Sometimes it is even more basic: the need for systems to promote **equal Value**
 A **national offer is therefore needed which is equitable in its access** and includes Parent's and Teachers' Wellbeing, alongside Clinicians & Social Workers. It should not be workplace or seniority -specific and needs to be able to sit&nbsp;**outside of Child Protection.**&nbsp;Something that supports the practice skills and the emotional load demanded of all Team members around a child - regardless of their formal 'job' title.
 
 I am in dialogue with a range of professionals in Health, Education, Therapeutic services as well as with Parent-Carers, in building awareness of this issue.
-
-I will end here by saying that **NCB,**&nbsp; as co-organisers of the erstwhile event, are an organisation **most definitely banging the drum of Co Production** elsewhere with and for,&nbsp;**parent-carers**. So, no criticism implied of the 2015 gathering. You can see more of **their work with parent-carers via the video link** above.
 
 ***If you would like to talk to me about 'supporting the supporters' of vulnerable children and young people, get in touch&nbsp;****via my Contacts page on this site\*\*, Tweet me or DM via LinkedIn.*
 
