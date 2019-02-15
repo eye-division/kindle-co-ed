@@ -93,6 +93,8 @@ I am in dialogue with a range of professionals in Health, Education, Therapeutic
 
 I will end here by saying that **NCB,**&nbsp; as co-organisers of the erstwhile event, are an organisation **most definitely banging the drum of Co Production** elsewhere with and for **parent-carers**. So, no criticism implied of the 2015 gathering. You can see more of **their work with parent-carers via the video link** above.
 
-***If you would like to talk to me about 'supporting the supporters' of vulnerable children and young people, get in touch here, Tweet or LinkedIn.***
+***If you would like to talk to me about 'supporting the supporters' of vulnerable children and young people, get in touch&nbsp;****here, Tweet me or DM via LinkedIn.*
+
+**I'm all ears.**
 
 &copy; Jo Broad 2019
