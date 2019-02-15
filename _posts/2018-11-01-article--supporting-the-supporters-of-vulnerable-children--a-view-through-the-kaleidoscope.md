@@ -72,23 +72,27 @@ One must recognise too, that Public Sector leaders must take very difficult deci
 
 They are more likely than parents to access support for the work they do to discharge their duties around vulnerable children, although I suspect increasingly, do not have the time.
 
-I should add that **NCB**,&nbsp; as co-organisers of the erstwhile event, are an organisation **most definitely banging the drum of Co Production elsewhere with and for parent-carers.** So, no criticism implied of the 2015 event.&nbsp;
+**Local Authority Early Help&nbsp;**offers, ostensibly provided to support families with a child with complex health or Disability, seem extremely variable. **Parent-carers can find these very off -putting** because the entire process sits in a **Safeguarding** frame. Engagement is frequently led by professionals used to driving any 'assessment' of Help, **through the lens of Child Protection**.&nbsp; Google a few randomly selected examples on 'Early Help' -&nbsp; you will find some LAs are much more welcoming in their tone, than others.
 
 **Over the past 10 years, I have begun** (or been put on)**&nbsp;*a journey of 'curious enquiry'*&nbsp;**as I go about my daily life and business. I am fortunate to have a relationship with a range of organisations, stakeholder groups and dedicated individuals (including parents) who experience the highs and lows of supporting vulnerable children. &nbsp; A sort of **3 - way lens** has been slowly but surely building of professional - stakeholder - personal perspectives.&nbsp;
 
 It's multi-faceted, colourful and sometimes overwhelming but **it's a kaleidoscope view&nbsp;**I committed to **deploying for the greater good**, wherever possible.
 
-**There is a debate to be had nationally,** about how to resource and **systematize the maintaining of wellbeing for ALL adults in a team** **around a child, s**o that they remain healthy, objective and able to stay the course with the child without frazzling away into oblivion.
+**There is a debate to be had nationally,** about how to resource and&nbsp;**systematise the maintaining of wellbeing for ALL adults in a team** **around a child, s**o that they remain healthy, objective and able to stay the course with the child without frazzling away into oblivion.&nbsp; Whilst experts might refer to **Psycho-dynamic theory** and&nbsp;**Reflective practice**, many parents would simply call it 'team skills', 'emotional health' and stress management.
 
-Experts would refer to [**Psychodynamic Theory ,**](__notset__)&nbsp;Reflective and Relational[&nbsp;](__notset__)Practice. But to many parents, this would simply be about 'team skills'&nbsp; and 'Mental Health'.&nbsp;**Local Authority *Early Help***&nbsp;'offers' seem extremely variable. Parent-carers can find these very off -putting because the entire process sits in a Safeguarding frame. Engagement is frequently led by professionals used to driving any 'assessment' of Help, through the lens of Child Protection.&nbsp; Google a few randomly selected examples on 'Early Help' for families and you will find some LAs are much more welcoming in their tone, than others.
+Sometimes it is even more basic: the need for systems to promote **equal Value** and enable **mutual Respect**.
 
-**Left unchecked** and unprocessed, the emotional load&nbsp; brought up when contributing as a professional, or as a parent around the table, can be&nbsp;**a route to ill health for the adult. With that**&nbsp;comes poorer outcomes for the child. A **national offer is therefore needed which is equitable in its access** and includes Parent's and Teachers' Wellbeing, alongside Clinicians & Social Workers. It should not be workplace or seniority -specific and needs to be able to sit&nbsp;**outside of Child Protection.**
+**Left unchecked** and unprocessed, the emotional load&nbsp; brought up for adults when contributing as a professional, or as a parent, around the agency table can be&nbsp;**a route to ill health. With that**&nbsp;comes poorer outcomes for the child.
 
-It's about supporting the professional-level practice skills and, the emotional load demanded of all Team members around a child, regardless of their formal 'job' title.
+A **national offer is therefore needed which is equitable in its access** and includes Parent's and Teachers' Wellbeing, alongside Clinicians & Social Workers. It should not be workplace or seniority -specific and needs to be able to sit&nbsp;**outside of Child Protection.**
 
-I am in dialogue with a range of professionals in Health, Education, Therapeutic services and the Public Sector, as well as with Parent-Carers, to raise awareness of this issue and seek to trigger a **systems-level intervention**.
+Something that supports the practice skills and the emotional load demanded of all Team members around a child - regardless of their formal 'job' title.
 
-***If you would like to join me in 'support for the supporters' get in touch.&nbsp;***
+I am in dialogue with a range of professionals in Health, Education, Therapeutic services and the Public Sector, as well as with Parent-Carers, to raise awareness of this issue.
+
+I will end by saying that NCB,&nbsp; as co-organisers of the erstwhile event, are an organisation most definitely banging the drum of Co Production elsewhere with and for parent-carers. So, no criticism implied of the 2015 gathering. You can see more of their work with parent-carers via the video link above.
+
+***If you would like to join me in 'support for the supporters' get in touch here, Tweet or DM me.***
 
 Read about NCB's work in partnership with Families through CDC, Sex-Ed Forum, the Anti-Bullying Alliance and through the National "[***Families Research Advisory Group***](https://www.ncb.org.uk/what-we-do/what-we-do/involving-children-and-young-people/involving-parents-and-carers-research)"&nbsp;
 
