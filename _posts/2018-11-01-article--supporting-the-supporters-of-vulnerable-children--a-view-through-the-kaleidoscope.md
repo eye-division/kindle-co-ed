@@ -41,38 +41,41 @@ What support there is, tends to be **lopsided in who can access it:****arms-leng
 
 *Then there were* ***Parent-Carers: this turned up a zero, systemically-speaking.*&nbsp;There is no 'workplace' support scheme for parent-carers,** despite many parents of vulnerable children finding themselves in the workplace (usually other people's) very frequently. Carers of young people with **SEN**, **Disabilities** or with enduring **Health** needs, typically have to pitch up to a publically-funded statutory agency setting, numerous times a year. These encounters &nbsp;can be great: enriching, helpful and effective. But it has turned out to be for some folk I know to be an experience, which is opposite to&nbsp; that.
 
-Truth to be told, there were not many Parent - Carers at the event. Not surprising when you consider it was in the working day, aimed very much at Agency representatives, and was about statutory guidance…. it can all seem quite dull if you are not that way inclined. I thoroughly enjoyed myself in a professional capacity, having not long before, stepped back into the workplace after a hugely extended stint on maternity leave.&nbsp;
+Truth to be told, there were not many Parent - Carers at the event. Not surprising when you consider it was in the working day, aimed very much at Agency representatives, and was about statutory guidance…. it can all seem quite dull if you are not that way inclined.&nbsp;
 
-But in families whose **children live at home** and are indeed **highly Vulnerable**, what happens to the **mental state of the adults**&nbsp;when they find themselves unwittingly **at the front line** of both child's **emotional needs** at home, and the '**services**' negotiating grounds? It can feel like a strange altered reality especially if you are new to it all.
+But in families whose **children live at home** and are indeed **highly Vulnerable**, what happens to the **mental state of the adults?**&nbsp;When they find themselves unwittingly **at the front line** of both child's **emotional needs** at home, and the **services**&nbsp;'negotiating ground', **it can feel quite immense.** It can feel like a strange sort of altered reality, especially if you are new to it all.
 
-In the past decade, I have become acutely aware through my professional work and the community circles I move in, of the toll it takes those adults (any adult) supporting vulnerable children directly. Many parent-carers, given a suitably "safe space" - (i.e.&nbsp;**non-judgemental, non-pathologising**)- would say, **it's a massive challenge**. That's partly because the toll it takes on a vulnerable child, just trying to live & learn in our schools and in our communities, is immense. That's regardless of self-efficacy, quality of professional input, levels of resilience and eventual outcomes. And i**f it is immense for the child, it's often immense for the adult. There is no weakness in acknowledging that, or at least, there shouldn't be.**
+In the past decade, I have become acutely aware through my professional work and the community circles I move in, of the toll it takes those adults (any adult) supporting vulnerable children directly. Many parent-carers, given a suitably "safe space" - (i.e.&nbsp;**non-judgemental, non-pathologising**)- would say, **it's a massive challenge**. That's partly because the toll it takes on a vulnerable child, just trying to live & learn in our schools and in our communities, is immense. And if it is immense for the child, it's often immense for the adult, regardless of self-efficacy, quality of professional input, levels of resilience or eventual outcomes.
+
+Even when the Outcomes are great, its can still knock you.
+
+**There is no weakness in acknowledging that, or at least, there shouldn't be.**
 
 ![](/uploads/children-champion-quote.PNG)
 
-The vast majority of parents, Corporate and otherwise, want to meet these challenges in full: selflessly, with gusto and effectively as an agent for that child's own life ambitions. Yet it struck me so much that day back in 2015, and many times since, how much we lack a national system which helps all the relevant adults process this work emotionally.&nbsp;
+The vast majority of parents, Corporate and otherwise, want to meet these challenges in full- selflessly, with gusto and effectively, as an agent for that child's own life ambitions.&nbsp;
 
-There are providers out there, doing some fantastic work with Professionals and with Families in a very holistic way (***MBO in Oxfordshire*** and the ***Anna Freud Centre* in London to name but two). But nothing which our national systems supports**, which truly responds to the daily reality of who does what in a Team around a Child when they are **unwell, not thriving** and living at home. Its a shared endeavour. Friends are good (especially those that are treading a similar path) but there are limits to what mates can do for each other.&nbsp;
+There are providers out there, doing some fantastic work with Professionals and with Families in a very holistic way.&nbsp;**But nothing which our national systems supports**, which truly responds to the daily reality of who does what in a Team around a Child. Especially not when they are **unwell**&nbsp;***and* living at home**.
 
-> ***There is a need for something that extends beyond informal cups of coffee***
->
->
-> **Parent-Carers do get asked alot too, to consult on other people's corporate plans. N**ot that parent-carers mind this, but when it's the only mode of interaction with public agencies, being repeatedly asked minus any actual support, can get a little wearing. There is valued on-line guidance on which P-Cs can call for help in working the system. But that is not quite the same thing.
-
-**For many parent-carers, there is a need to process the emotions that come up when you feel:**
+Friends are good (especially those that are treading a similar path) but there are limits to what mates can do for each other.&nbsp;***There is a need for something that extends beyond informal cups of coffee***. For many parent-carers, **there is a need to process the emotions that come up when you feel:**
 
 * ![](/uploads/kindle-templates-bullet-1.jpg)&nbsp;**de-skilled** around your child: parents are frequently trying out fresh strategies which they are given by professionals, or which they train themselves in, to support an aspect of their child's development;
 * ![](/uploads/kindle-templates-bullet-1.jpg)**disempowered** in an agency meeting: this can happen when professionals are discussing what they will, and won't, give your child according to assessment of need and increasingly, available resources; &nbsp;
-* ![](/uploads/kindle-templates-bullet-1.jpg)***empathy***&nbsp;**vs. frustration**&nbsp;- a mixed bag of emotion that seeps into your brain on leaving a conversation with an otherwise skilled, dedicated but over-worked,&nbsp;**under-resourced public sector professional** whose just failed to implement a key part of your child's support plan. Parents have to tackle that head on for their child's sake but, how ever carefully constructed the approach, addressing that frequently does not go down well.
+* ![](/uploads/kindle-templates-bullet-1.jpg)***empathy***&nbsp;**vs. frustration**&nbsp;- a mixed bag of emotion that seeps into your brain on leaving a conversation with an otherwise skilled, dedicated but over-worked,&nbsp;**under-resourced public sector professional** whose just failed to implement a key part of your child's support plan. Parents have to tackle that head on for their child's sake but, how ever carefully constructed the approach, **addressing that frequently does not go down well**. If you think organisations would never react subjectively with petulance, think again.&nbsp;
 
-Usually, professionals at the table have some sort of peer group, line management or the staff room from which to draw support afterwards; there are colleagues with whom to refresh strategy, for the next meeting.&nbsp;
+After multi-party meetings and family conferences, professionals at the table usually have some sort of peer group, line management or staff room from which to draw support; colleagues perhaps with whom to refresh strategy, for the next meeting.&nbsp;
 
-Parent -carers frequently exit those encounters alone. However cohesive your own home, it is not always the best or appropriate receptacle for dumping&nbsp; 'agency overspill' into, 10 times a year.
+**Parent -carers frequently exit those encounters alone. **
+
+However cohesive your own home, it is not always the best or appropriate receptacle for dumping&nbsp; 'agency overspill' into, 10 times a year.
 
 One must recognise too, that Public Sector leaders must take very difficult decisions about **service reform & transformation**. That comes with an emotional cost, especially in an era of heavily - reduced budgets. No-one goes into **Corporate Parenting**&nbsp;because they enjoy saying 'no' to families...
 
 They are more likely than parents to access support for the work they do to discharge their duties around vulnerable children, although I suspect increasingly, do not have the time.
 
-**Local Authority Early Help&nbsp;**offers, ostensibly provided to support families with a child with complex health or Disability, seem extremely variable. **Parent-carers can find these very off -putting** because the entire process sits in a **Safeguarding** frame. Engagement is frequently led by professionals used to driving any 'assessment' of Help, **through the lens of Child Protection**.&nbsp; Google a few randomly selected examples on 'Early Help' -&nbsp; you will find some LAs are much more welcoming in their tone, than others.
+**What about Local Authority Early Help&nbsp;**offers then I hear you say?
+
+These are ostensibly provided to support families with a child with complex health or Disability. But to me they seem extremely variable. **Parent-carers can find these very off -putting** because the entire process sits in a **Safeguarding** frame. Engagement is frequently led by professionals used to driving any 'assessment' of Help, **through the lens of Child Protection**.&nbsp; Google a few randomly selected examples on 'Early Help' -&nbsp; you will find some LAs are much more welcoming in their tone, than others.
 
 **Over the past 10 years, I have begun** (or been put on)**&nbsp;*a journey of 'curious enquiry'*&nbsp;**as I go about my daily life and business. I am fortunate to have a relationship with a range of organisations, stakeholder groups and dedicated individuals (including parents) who experience the highs and lows of supporting vulnerable children. &nbsp; A sort of **3 - way lens** has been slowly but surely building of professional - stakeholder - personal perspectives.&nbsp;
 
