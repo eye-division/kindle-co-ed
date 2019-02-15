@@ -29,6 +29,8 @@ _comments:
 
 In a reflective piece, I seek to explore some of the systems-level inequities built in to the national resources, agency infrastructures and working practices around adults who support Vulnerable Children and those with SEND and ask: where do parent-carers fit in ?
 
+For anyone who enjoys a bit of a **gander through systems-change thinking**, read on. If not, I'd go make a cup of tea.....
+
 When new statutory guidance emphasising the importance of Mental Health provision in supporting Looked After Children, was published by Government back in 2015, its arrival was marked by **an excellent event hosted by** [**NCB**](https://www.ncb.org.uk/). Contributors from **DfE** and **DoH** came together with nationally recognised figures in the field of Adoption, and from the 'big three' of&nbsp;**Health**, **Education** and **Social Care**.
 
 However there was nothing on the formal Agenda,&nbsp; and little or no discussion amongst delegates at the tables, on the support that might be needed for the adults, working directly with these vulnerable children.
@@ -65,11 +67,11 @@ Friends are good (especially those that are treading a similar path) but there a
 
 After multi-party meetings and family conferences, professionals at the table usually have some sort of peer group, line management or staff room from which to draw support; colleagues perhaps with whom to refresh strategy, for the next meeting.&nbsp;
 
-**Parent -carers frequently exit those encounters alone. **
+\*\*Parent -carers frequently exit those encounters alone. \*\*
 
 However cohesive your own home, it is not always the best or appropriate receptacle for dumping&nbsp; 'agency overspill' into, 10 times a year.
 
-One must recognise too, that Public Sector leaders must take very difficult decisions about **service reform & transformation**. That comes with an emotional cost, especially in an era of heavily - reduced budgets. No-one goes into **Corporate Parenting**&nbsp;because they enjoy saying 'no' to families...
+One must recognise too, that Public Sector leaders must take very difficult decisions about **service reform & transformation**. That comes with an emotional cost, especially in an era of heavily - reduced budgets. No-one goes into **Corporate Parenting**&nbsp;because they enjoy saying 'no' to families…
 
 They are more likely than parents to access support for the work they do to discharge their duties around vulnerable children, although I suspect increasingly, do not have the time.
 
@@ -93,7 +95,7 @@ I am in dialogue with a range of professionals in Health, Education, Therapeutic
 
 I will end here by saying that **NCB,**&nbsp; as co-organisers of the erstwhile event, are an organisation **most definitely banging the drum of Co Production** elsewhere with and for,&nbsp;**parent-carers**. So, no criticism implied of the 2015 gathering. You can see more of **their work with parent-carers via the video link** above.
 
-***If you would like to talk to me about 'supporting the supporters' of vulnerable children and young people, get in touch&nbsp;****via my Contacts page on this site**, Tweet me or DM via LinkedIn.*
+***If you would like to talk to me about 'supporting the supporters' of vulnerable children and young people, get in touch&nbsp;****via my Contacts page on this site\*\*, Tweet me or DM via LinkedIn.*
 
 **I'm all ears.**
 
