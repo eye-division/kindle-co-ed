@@ -95,7 +95,7 @@ A **national offer is therefore needed which is equitable in its access** and in
 
 I am in dialogue with a range of professionals in Health, Education, Therapeutic services as well as with Parent-Carers, in building awareness of this issue.
 
-***If you would like to talk to me about 'supporting the supporters' of vulnerable children and young people, get in touch&nbsp;****via my Contacts page on this site\*\*, Tweet me or DM via LinkedIn.*
+***If you would like to talk to me about 'supporting the supporters' of vulnerable children and young people, get in touch&nbsp;****via my Contacts page on this site, Tweet me or DM via LinkedIn.*
 
 **I'm all ears.**
 
