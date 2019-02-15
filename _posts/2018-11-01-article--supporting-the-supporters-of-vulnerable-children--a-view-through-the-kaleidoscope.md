@@ -88,14 +88,10 @@ A **national offer is therefore needed which is equitable in its access** and in
 
 Something that supports the practice skills and the emotional load demanded of all Team members around a child - regardless of their formal 'job' title.
 
-I am in dialogue with a range of professionals in Health, Education, Therapeutic services and the Public Sector, as well as with Parent-Carers, to raise awareness of this issue.
+I am in dialogue with a range of professionals in Health, Education, Therapeutic services as well as with Parent-Carers, in building awareness of this issue.
 
-I will end by saying that NCB,&nbsp; as co-organisers of the erstwhile event, are an organisation most definitely banging the drum of Co Production elsewhere with and for parent-carers. So, no criticism implied of the 2015 gathering. You can see more of their work with parent-carers via the video link above.
+I will end here by saying that **NCB,**&nbsp; as co-organisers of the erstwhile event, are an organisation **most definitely banging the drum of Co Production** elsewhere with and for **parent-carers**. So, no criticism implied of the 2015 gathering. You can see more of **their work with parent-carers via the video link** above.
 
-***If you would like to join me in 'support for the supporters' get in touch here, Tweet or DM me.***
+***If you would like to talk to me about 'supporting the supporters' of vulnerable children and young people, get in touch here, Tweet or LinkedIn.***
 
-Read about NCB's work in partnership with Families through CDC, Sex-Ed Forum, the Anti-Bullying Alliance and through the National "[***Families Research Advisory Group***](https://www.ncb.org.uk/what-we-do/what-we-do/involving-children-and-young-people/involving-parents-and-carers-research)"&nbsp;
-
-Read about the value of [**Reflective Practice**](https://mulberrybush.org.uk/wp-content/uploads/2016/04/MENTAL_HEALTH_POSTER_3.pdf) & [**Supervision**](https://mulberrybush.org.uk/outreach/#.WzIIPNVKiM8) for professionals through the work of the [**Mulberry Bush Organisation**](https://mulberrybush.org.uk/) in Oxfordshire.
-
-&copy; Jo Broad Autumn 2018
+&copy; Jo Broad 2019
