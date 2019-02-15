@@ -2,7 +2,7 @@
 title: >-
   ARTICLE : 'Supporting the supporters' of vulnerable children- a view through
   the kaleidoscope
-date: 2018-11-01 15:21:00
+date: 2019-02-15 15:21:00
 categories:
   - News
 main_image_path:
@@ -97,4 +97,4 @@ I will end here by saying that **NCB,**&nbsp; as co-organisers of the erstwhile 
 
 **I'm all ears.**
 
-&copy; Jo Broad 2019
+&copy; Jo Broad February 2019
