@@ -85,11 +85,9 @@ It's multi-faceted, colourful and sometimes overwhelming but **it's a kaleidosco
 
 Sometimes it is even more basic: the need for systems to promote **equal Value** and enable **mutual Respect**.
 
-**Left unchecked** and unprocessed, the emotional load&nbsp; brought up for adults when contributing as a professional, or as a parent, around the agency table can be&nbsp;**a route to ill health. With that**&nbsp;comes poorer outcomes for the child.
+**Left unchecked** and unprocessed, the emotional load&nbsp; brought up for adults when contributing as a professional, or as a parent, around the agency table can be&nbsp;**a route to ill health.****With that, comes poorer outcomes for the child**.
 
-A **national offer is therefore needed which is equitable in its access** and includes Parent's and Teachers' Wellbeing, alongside Clinicians & Social Workers. It should not be workplace or seniority -specific and needs to be able to sit&nbsp;**outside of Child Protection.**
-
-Something that supports the practice skills and the emotional load demanded of all Team members around a child - regardless of their formal 'job' title.
+A **national offer is therefore needed which is equitable in its access** and includes Parent's and Teachers' Wellbeing, alongside Clinicians & Social Workers. It should not be workplace or seniority -specific and needs to be able to sit&nbsp;**outside of Child Protection.**&nbsp;Something that supports the practice skills and the emotional load demanded of all Team members around a child - regardless of their formal 'job' title.
 
 I am in dialogue with a range of professionals in Health, Education, Therapeutic services as well as with Parent-Carers, in building awareness of this issue.
 
