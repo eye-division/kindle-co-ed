@@ -34,6 +34,6 @@ Deploying KindleCo's core values, I set out to capture the interest of the Cityâ
 
 ## The Success
 
-I was able to bring partnerships worth in excess of &pound;35,000 to table. More than 15 years on, Schools are now commonly adopting the single- organisation / multi-partner models trail blazed by Andrew Hutchinson at the former Parkside Federation. Andrew was awarded the OBE in December 2008 for services to Education.
+I was able to bring partnerships worth in excess of &pound;35,000 to table. More than 15 years on, Schools are now commonly adopting the single- organisation / multi-partner models trail blazed by Andrew Hutchinson at the former Parkside Federation. Andrew Hutchinson was awarded the OBE in December 2008 for services to Education.
 
 Web Link : [Visit the Parkside Federation](https://cap.education/multi-academy-trust/){: target="link"}&nbsp;under its new name "Cambridge Academic Partnership"
