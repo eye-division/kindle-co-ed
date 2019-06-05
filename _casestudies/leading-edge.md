@@ -6,7 +6,7 @@ project_to_date:
 list: false
 archive: false
 short_description_markdown: >-
-  A look-back at helping one of the first 'leading edge' schools a decade on…
+  A look-back at partnering one of the first 'leading edge' schools 15 years on…
   Parkside Federation Academies and its Executive Principal, Andrew Hutchinson
   OBE, are nationally recognised as being at the forefront of school innovation
 main_image_path:
