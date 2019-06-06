@@ -43,7 +43,7 @@ For those forming a team around a child, either at work or at home, many adults 
 
 Carers of young people with **SEN**, **Disabilities** or with enduring **Health** needs, typically have to pitch up to a publically-funded statutory agency setting, numerous times a year. These encounters &nbsp;can be great: enriching, helpful and effective. But the experience of some parent-carers is that these occasions can be the opposite to&nbsp; that.&nbsp;
 
-Truth to be told, there were not many Parent - Carers at the event. Not surprising when you consider it was in the working day, aimed very much at Agency representatives, and was about statutory guidance…. it can all seem quite dull if you are not that way inclined. Its important to say clearly here that **NCB,&nbsp;** as co-organisers of the erstwhile event, are an organisation **most definitely banging the drum of support with and for****parent-carers**. If you're interested to know more, you view some of their work with parent-carers working with clinicians and academic researchers on key health policy areas,&nbsp;**via the video link above**. There is really&nbsp;**no criticism implied in what I am saying of the 2015 gathering.**
+Truth to be told, there were not many Parent - Carers at the event. Not surprising when you consider it was in the working day, aimed very much at Agency representatives, and was about statutory guidance…. it can all seem quite dull if you are not that way inclined. Its important to say clearly here that **NCB,&nbsp;** as co-organisers of the erstwhile event, are an organisation **most definitely banging the drum of support with and for&nbsp;****parent-carers**. If you're interested to know more, you view some of NCB's work with parent-carers&nbsp;**via the video link above**. There is really&nbsp;**no criticism implied in what I am saying of the 2015 gathering.**
 
 But it was perhaps reflective of this uneven national picture, that the emotional wellbeing of adults (especially parent-carers) in teams - around - the - child, was not on the Agenda.
 
@@ -75,9 +75,9 @@ These are ostensibly provided to support families with a child with complex heal
 
 Experts might refer to the need to raise awareness of psycho-dynamic theory and the benefits of&nbsp;**Reflective practice.** Many parents would simply call it the need for 'team skills' and stress management. I think at sector-level, it is even more basic: its the the need for systems which actively promote **equal Value**&nbsp;of all participants around the support table.
 
-A **national offer is therefore needed which is equitable in its access** and includes Parent's and Teachers' Wellbeing, alongside Clinicians and Social Workers. It should not be workplace or seniority -specific and needs to be able to sit&nbsp;**outside of Child Protection -** something that supports all Team members around a child - regardless of their formal 'job' title.
+A **national offer is therefore needed which is equitable in its access** and includes Parent and Teachers Wellbeing, alongside Clinicians and Social Workers. It should not be workplace or seniority -specific and needs to be able to sit&nbsp;**outside of Child Protection.**&nbsp;Something that supports all Team members around a child - regardless of their formal 'job' title.
 
-I am in dialogue with a range of professionals in Health, Education, Therapeutic services as well as with Parent-Carers, in building awareness of this issue.&nbsp;*If you* ***would like to talk to me about 'supporting the supporters' ****of vulnerable children and young people,****get in touch.***
+I am in dialogue with a range of professionals in Health, Education, Therapeutic services as well as with Parent-Carers, in building awareness of this issue.&nbsp;*If you* ***would like to talk to me about 'supporting the supporters' of vulnerable children and young people,&nbsp;****get in touch.*
 
 **I'm all ears.**
 
