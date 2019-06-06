@@ -51,8 +51,6 @@ So what does happen in families whose **children live at home** and are **highly
 
 Many parent-carers, given a suitably "safe space" - (i.e.&nbsp;**non-judgemental, non-pathologising**)- would say, **it's a massive challenge**. That's partly because the toll it takes on a vulnerable child, just trying to live & learn in our schools and in our communities, is immense. If it' s immense for the child, chances are, it's likely to be immense for the adult. That's regardless of&nbsp; levels of self-efficacy, quality of professional input, or eventual outcomes. The 'resilience' argument only goes so far because even when the eventual outcomes are great, it can still knock you. There is no weakness in acknowledging that, or at least, there shouldn't be.
 
-&nbsp;
-
 When a child is&nbsp;**unwell**&nbsp;***and* living at home,** friends are good at supporting, especially those that are treading a similar path. But there are limits to what mates can do for each other.&nbsp;***There is a need for something that extends beyond informal cups of coffee***.
 
 For many parent-carers, **there is a need to process the emotions that come up when you feel:**
