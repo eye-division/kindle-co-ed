@@ -2,7 +2,7 @@
 title: >-
   ARTICLE : 'Supporting the supporters' of vulnerable children- a view through
   the kaleidoscope
-date: 2019-02-15 15:21:00
+date: 2020-11-20 15:21:00
 categories:
   - News
 main_image_path:
@@ -35,9 +35,9 @@ When new statutory guidance emphasising the importance of Mental Health provisio
 
 However there was nothing on the formal Agenda,&nbsp; and little or no discussion amongst delegates at the tables, on the support that might be needed for the adults, working directly with these vulnerable children.
 
-> **No-one tabled the question:** *how do adults process the emotional impact of their work, on themselves, and those around them?***In a room full of Health professionals, this seemed strangely at odds** with the realities so many adults face, in the course of our daily task.&nbsp;
+> **No-one tabled the question:** *how do adults process the emotional impact of their work, on themselves, and those around them?&nbsp;***In a room full of Health professionals, this seemed strangely at odds** with the realities so many adults face, in the course of our daily task.&nbsp;
 
-For those forming a team around a child, either at work or at home, many adults fall entirely outside any concrete system of support for their role which is focused on their own wellbeing, mental and emotional health.There is a distinct lack of support which is in any way&nbsp;**systematised, not informal, rooted in evidence-based practice and recognises the needs of all the adults involved, equally.**&nbsp;What does exist is not equitable in its access and even where it is accesable (for example via a GP referral), these services are fundamentally **disconnected to the 'Team' environment** which throws up the issues around the table when meeting to discuss a child. &nbsp;**Social Workers** and **Clinicians** attending that day back in 2015, were able to cite some existing structures in the workplace, including '***Supervision***'. **Education professionals** were not - a supportive Line Manager was a close as it got.&nbsp;**Foster Carers** seemed more likely to be viewed as Professionals and could access training through Local Authority generated support; **Adoptive Parents** felt almost on their own 'post-&nbsp; permanence'.&nbsp;
+For those forming a team around a child, either at work or at home, many adults fall entirely outside any concrete system of support for their role which is focused on their own wellbeing, mental and emotional health. There is a distinct lack of support which is in any way&nbsp;**systematised, not informal, rooted in evidence-based practice and recognises the needs of all the adults involved, equally.**&nbsp;What does exist is not equitable in its access and even where it is accessible (for example via a GP referral), these services are fundamentally **disconnected to the 'Team' environment** which throws up the issues around the table when meeting to discuss a child. &nbsp;**Social Workers** and **Clinicians** attending that day back in 2015, were able to cite some existing structures in the workplace, including '***Supervision***'. **Education professionals** were not - a supportive Line Manager was a close as it got.&nbsp;**Foster Carers** seemed more likely to be viewed as Professionals and could access training through Local Authority generated support; **Adoptive Parents** felt almost on their own 'post-&nbsp; permanence'.&nbsp;
 
 *Then there were* ***Parent-Carers: this turned up a zero, systemically-speaking.*&nbsp;There is no 'workplace' support scheme for parent-carers,** despite many parents of vulnerable children finding themselves in the workplace (usually other people's) very frequently.
 
@@ -79,4 +79,4 @@ I am in dialogue with a range of professionals in Health, Education, Therapeutic
 
 **I'm all ears.**
 
-&copy; Jo Broad February 2019
+&copy; Jo Broad&nbsp;
