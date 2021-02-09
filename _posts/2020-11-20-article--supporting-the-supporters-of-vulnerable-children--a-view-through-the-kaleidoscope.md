@@ -54,30 +54,30 @@ By way of example, &nbsp;**Social Workers** and **Clinicians** attending that da
 
 **Adoptive Parents** felt almost on their own 'post-&nbsp; permanence'.&nbsp;
 
-*Then there were* ***Parent-Carers....***
+*Then there were* ***Parent-Carers….***
 
 ***This turned up a big fat zero, systemically-speaking.*&nbsp;**
 
 There is no 'workplace' support scheme for parent-carers, despite many parents of vulnerable children finding themselves in the workplace (usually other people's) very frequently.
 
-Carers of young people with Health conditions for example or Disabilities typically have to pitch up to some sort of statutory agency setting, numerous times a year. These encounters &nbsp;can be great: enriching, helpful and effective. But the experience of some parent-carers is that these occasions can be the opposite of that.&nbsp;
+**Carers of young people with Health conditions for example or Disabilities typically have to pitch up to some sort of statutory agency setting, numerous times a year.** These encounters &nbsp;can be great: enriching, helpful and effective. But the experience of some parent-carers seems to be that these occasions, can sometimes be, the opposite of that.&nbsp;
 
-Truth to be told, there were not many Parent - Carers at the 2015 event. Not surprising when you consider it was in the working day, aimed very much at Agency representatives, and was about statutory guidance…. it can all seem quite dull if you are not that way inclined\! &nbsp;It's important to say clearly here that **NCB,&nbsp;** as co-organisers of the erstwhile event, are an organisation most definitely banging the drum of support with and for parent-carers and if &nbsp;you're interested to know more, you view some of NCB's work with parent-carers&nbsp;**via the video link above**. No criticism implied of the 2015 gathering.
+Truth to be told, there were not many Parent - Carers at the 2015 event (not surprising when you consider it was in the working day, aimed very much at Agency representatives, and was about statutory guidance….) . It can all seem quite dull if you are not that way inclined\! &nbsp;It's important to say clearly here that **NCB,&nbsp;** as co-organisers of the erstwhile event, are an organisation most definitely banging the drum of support with and for parent-carers and if &nbsp;you're interested to know more, you view some of NCB's work with parent-carers&nbsp;**via the video link above**. No criticism implied of the 2015 gathering.
 
-It was (and is) perhaps however reflective, of this uneven national picture, that the emotional wellbeing of adults including parent-carers, in teams - around - the - child, was not on the Agenda.
+**It was (and is) perhaps however reflective, of this uneven national picture, that the emotional wellbeing of adults including parent-carers, in teams - around - the - child, was not on the Agenda.**
 
 So what does happen in families who find themselves unwittingly **at the front line** ***of both child's emotional needs at home, and the services 'negotiating ground'?***
 
 In the past decade, I have become acutely aware through my professional work and the community circles I move in, of the toll it takes those adults when delivering these support roles.
 
-Many parent-carers, given a suitably "safe space" - (i.e. non-judgemental, non-pathologising)- would say, it's a massive challenge.&nbsp; Regardless of&nbsp; levels of self-efficacy, quality of professional input, or eventual outcomes.
+Many parent-carers (and professionals) given a suitably "safe space" &nbsp;would say, it's a massive challenge.&nbsp; Regardless of&nbsp; levels of self-efficacy or of eventual outcomes.
 
 ***There is a need for something that extends beyond informal cups of coffee as support.***.
 
 For many parent-carers, they will say&nbsp;**there is a need to process the emotions that come up when they feel:**
 
 * ![](/uploads/kindle-templates-bullet-1.jpg)&nbsp;**de-skilled**\: carers are frequently trying out fresh strategies which they are given by professionals, or which they train themselves in, to support an aspect of their child's development
-* ![](/uploads/kindle-templates-bullet-1.jpg)**disempowered**\: i this can happen when professionals are discussing what they will, and won't, give your child according to assessment of need and increasingly, available resources&nbsp;
+* ![](/uploads/kindle-templates-bullet-1.jpg)**disempowered**\: this can happen when professionals are discussing what they will, and won't, give your child according to assessment of need and increasingly, available resources&nbsp;
 * ![](/uploads/kindle-templates-bullet-1.jpg)***empathy***&nbsp;**vs. frustration**&nbsp;- a mixed bag of emotion that seeps in during a conversation with a skilled, dedicated, but over-worked&nbsp;**under-resourced professional** whose just failed to implement a key part of a child's support plan.
 
 After multi-party meetings, professionals usually have some sort of peer group, line management or staff room to go back to from which to draw support - colleagues perhaps with whom to refresh strategy, for the next meeting. Parent -carers usually exit those encounters alone. However supportive their homelife is, home it is not always the best, or even appropriate receptacle, for dumping&nbsp; 'agency overspill' into, 10 times a year.
@@ -106,7 +106,7 @@ It should not be workplace or seniority -specific and needs to be able to sit&nb
 
 I am in dialogue with a range of professionals in Health, Education, Therapeutic services as well as with Parent-Carers, in building awareness of this issue.&nbsp;
 
-***If you*** ***would like to talk to me about 'supporting the supporters' ****of vulnerable children and young people, do get in touch.*
+***If you*** ***would like to talk to me about 'supporting the supporters' \*\***of vulnerable children and young people, do get in touch.*
 
 **I'm all ears.**
 
