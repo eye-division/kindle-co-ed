@@ -77,8 +77,8 @@ Many parent-carers (and professionals) given a suitably "safe space" &nbsp;would
 For many parent-carers, they will say&nbsp;**there is a need to process the emotions that come up when they feel:**
 
 * ![](/uploads/kindle-templates-bullet-1.jpg)&nbsp;**de-skilled**\: carers are frequently trying out fresh strategies which they are given by professionals, or which they train themselves in, to support an aspect of their child's development
-* ![](/uploads/kindle-templates-bullet-1.jpg)**disempowered**\: this can happen when professionals are discussing what they will, and won't, give your child according to assessment of need and increasingly, available resources&nbsp;
-* ![](/uploads/kindle-templates-bullet-1.jpg)***empathy***&nbsp;**vs. frustration**&nbsp;- a mixed bag of emotion that seeps in during a conversation with a skilled, dedicated, but over-worked&nbsp;**under-resourced professional** whose just failed to implement a key part of a child's support plan.
+* ![](/uploads/kindle-templates-bullet-1.jpg)**disempowered**\: this can happen when professionals are discussing what they will, and won't, give a child. It should be of course according to assessment of need but, is increasingly, pegged to available resources&nbsp;
+* ![](/uploads/kindle-templates-bullet-1.jpg)***empathy***&nbsp;**vs. frustration**&nbsp;- a mixed bag of emotion that seeps in during a conversation with a skilled, dedicated, but over-worked and possibly&nbsp;**under-resourced professional** whose just failed to implement a key part of a child's support plan
 
 After multi-party meetings, professionals usually have some sort of peer group, line management or staff room to go back to from which to draw support - colleagues perhaps with whom to refresh strategy, for the next meeting. Parent -carers usually exit those encounters alone. However supportive their homelife is, home it is not always the best, or even appropriate receptacle, for dumping&nbsp; 'agency overspill' into, 10 times a year.
 
