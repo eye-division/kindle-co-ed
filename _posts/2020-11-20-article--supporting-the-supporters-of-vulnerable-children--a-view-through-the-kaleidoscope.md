@@ -106,7 +106,7 @@ It should not be workplace or seniority -specific and needs to be able to sit&nb
 
 I am in dialogue with a range of professionals in Health, Education, Therapeutic services as well as with Parent-Carers, in building awareness of this issue.&nbsp;
 
-***If you*** ***would like to talk to me about 'supporting the supporters' \*\***of vulnerable children and young people, do get in touch.*
+***If you*** ***would like to talk to me about 'supporting the supporters'** of vulnerable children and young people, do get in touch.*
 
 **I'm all ears.**
 
