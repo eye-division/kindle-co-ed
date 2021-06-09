@@ -33,7 +33,7 @@ order: 5
 
 Improving the educational and long term life outcomes for traumatised children, and&nbsp; all those affected by childhood trauma, is the mission of the Mulberry Bush Charity, based in Oxfordshire.
 
-For those organisations who need, and want, to work in close partnership with the public policy and systems change at national level, the load can feel heavy. External shifts can impact heavily on an organisation’s work, as well as that of their customers, partners and stakeholders.
+For those organisations who need, and want, to work in close partnership with public policy and systems change at national level, the load can feel heavy. External shifts can impact heavily on an organisation’s work, as well as that of their customers, partners and stakeholders.
 
 The potential to feel simultaneously corporately excited & overwhelmed becomes a regular occurrence for many operating in the complex eco-system of stakeholder networks and funding pools which flow from Government policy.
 
