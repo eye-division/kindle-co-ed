@@ -1,5 +1,7 @@
 ---
-title: Continuing to support developments at innovative national children's charity
+title: >-
+  Providing continuing support for organisational developments at innovative
+  national children's charity
 date: 2020-04-30 15:21:00
 categories:
   - News
