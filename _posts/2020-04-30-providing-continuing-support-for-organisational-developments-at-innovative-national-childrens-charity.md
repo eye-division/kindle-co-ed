@@ -27,13 +27,13 @@ _comments:
 > "My vision is always to lead the organisation in a response to those external events that is strategic, well-informed, practical and importantly, always aligned with our ongoing mission and values.
 >
 >
-> She is able to demonstrate quickly her skills in capturing our organisational 'essence’ and sound understanding of our corporate dynamics. Combined&nbsp; with her experienced grasp of public sector dynamics, Jo enables us to arrive at an informed view of what the key shifts in the external landscape can mean to us as we develop the Bush for the future.
+> She was able to demonstrate quickly her skills in capturing our organisational 'essence’ and sound understanding of corporate culture. Combined&nbsp; with her experienced grasp of public sector dynamics, Jo enables us to arrive at an informed view of what the key shifts in the external landscape can mean to us as we develop the Bush for the future.
 >
 >
 > Working with Jo has enabled us to achieve that with confidence."
 
-John Diamond, CEO, Mulberry Bush Organisation
+John Diamond, CEO, Mulberry Bush Charity
 
 ![](/uploads/mbo170.jpg)![](/uploads/mbob70-pw.jpg)![](/uploads/mboc-at70.jpg)
 
-Web Link : [Emotional Health & Mental Wellbeing:Vulnerable Children, Families, supporting Professionals](http://www.mulberrybush.org.uk/national-centre/){: target="new"}
+Web Link : Mulberry Bush Charity supports all those affected by Childhood Trauma:&nbsp;[Children, Families, Professionals](http://www.mulberrybush.org.uk/national-centre/){: target="new"}
