@@ -37,7 +37,7 @@ For those organisations who need, and want, to work in close partnership with pu
 
 The potential to feel simultaneously corporately excited & overwhelmed becomes a regular occurrence for many operating in the complex eco-system of stakeholder networks and funding pools which flow from Government policy.
 
-Jo has been working with MBO as a specialist Associate since September 2013 to help support the Charity's response the changing external landscape. From the very specific challenges of implementing the Children & Families Act 2014, to MB's shaping of a more nuanced and considered response to supporting its stakeholders' emergence from the 2020 Global Pandemic. Jo has contributed to SLT Policy Groups, Think Tanks and task & finish work with its CEO and other organisational Leaders addressing service development, for over 8 years.&nbsp;
+Jo has been working with MBO as a specialist Associate since September 2013 to help support the Charity's response the changing external landscape. From the very specific challenges of implementing the Children & Families Act 2014, to MB's shaping of a more nuanced and considered response to supporting its stakeholders' emergence from the 2020 Global Pandemic. Jo has contributed to SLT Policy Groups, Think Tanks and task & finish work with its CEO and other organisational Leaders addressing service development, for over 7 years.&nbsp;
 
 ## The Challenge
 
