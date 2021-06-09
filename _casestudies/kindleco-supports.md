@@ -2,17 +2,19 @@
 title: KindleCo supports innovative leadership at national childrens' charity
 permalink: >-
   /casestudies/kindleco-supports-innovative-leadership-at-national-childrens-charity/
-project_date: 2019-05-22 00:00:00
-project_to_date: 2019-05-22 00:00:00
+project_date: 2013-09-01 00:00:00
+project_to_date: 2020-06-30 00:00:00
 list: false
 archive: false
 short_description_markdown: >-
   As a national charity at the cutting edge of support for vulnerable children &
-  families, The Mulberry Bush Organisation recognised early-on that it needed to
-  respond to government led change. Key shifts at national level, in the
-  Children & Families Act, the arrival of Health & Wellbeing Boards, and the
-  advent of Future in Mind, provide both challenge and opportunity to its
-  charitable mission.
+  families, The Mulberry Bush Charity recognised early-on that it needed to
+  respond to external change including Government-influenced shifts which
+  trickle through the sector. Key shifts from the specifics of implementing the
+  Children & Families Act 2014, to the more considered response of providing a
+  Reflective Space for sector Leaders to "Think" together as they emerge from
+  the global Pandemic of 2020, all provide moments of both challenge &
+  opportunity to its charitable mission.
 main_image_path:
 main_image_description:
 video_embed:
