@@ -13,7 +13,7 @@ short_description_markdown: >-
   trickle through the sector. Key shifts from the specifics of implementing the
   Children & Families Act 2014, to the more considered response of providing a
   Reflective Space for sector Leaders to "Think" together as they emerge from
-  the global Pandemic of 2020, all provide moments of both challenge &
+  the global Pandemic of 2020: these all provide moments of both challenge &
   opportunity to its charitable mission.
 main_image_path:
 main_image_description:
