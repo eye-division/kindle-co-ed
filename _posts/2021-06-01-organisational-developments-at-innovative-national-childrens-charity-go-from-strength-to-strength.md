@@ -1,7 +1,7 @@
 ---
 title: >-
-  Providing continuing support for organisational developments at innovative
-  national children's charity
+  Organisational developments at innovative national children's charity go from
+  strength to strength
 date: 2021-06-01 15:21:00
 categories:
   - News
