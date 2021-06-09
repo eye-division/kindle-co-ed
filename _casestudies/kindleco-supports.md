@@ -24,36 +24,33 @@ images:
       2018. Pictured, John Diamond, CEO.
   - image_path:
     description:
-tags:
 order: 5
 ---
 
 ## The People
 
-Improving the life outcomes for traumatised and vulnerable children is the mission of the Mulberry Bush Organisation based in Oxfordshire.
+Improving the educational and long term life outcomes for traumatised children, and&nbsp; all those affected by childhood trauma, is the mission of the Mulberry Bush Charity, based in Oxfordshire.
 
-For those organisations who need and want to work in close partnership with the Public Sector, policy and system change at national level can heavily impact an organisation’s work, as well as that of their customers, partners and stakeholders.
+For those organisations who need, and want, to work in close partnership with the public policy and systems change at national level, the load can feel heavy. External shifts can impact heavily on an organisation’s work, as well as that of their customers, partners and stakeholders.
 
-The potential to feel simultaneously corporately excited, overwhelmed and challenged, becomes a regular occurrence for many operating in the Public Sector eco-system.
+The potential to feel simultaneously corporately excited & overwhelmed becomes a regular occurrence for many operating in the complex eco-system of stakeholder networks and funding pools which flow from Government policy.
 
-Jo has been working with MBO as a specialist Associate since September 2013 to help support MBO's response the changing national policy and strategic landscape, from the Children & Families Act 2014, to Health & Wellbeing, Children & Social Work Act,&nbsp; and more recently, the Government's plans for national SEND Workforce Development and the Mental Health Green Paper.
+Jo has been working with MBO as a specialist Associate since September 2013 to help support the Charity's response the changing external landscape. From the very specific challenges of implementing the Children & Families Act 2014, to MB's shaping of a more nuanced and considered response to supporting its stakeholders' emergence from the 2020 Global Pandemic. Jo has contributed to SLT Policy Groups, Think Tanks and task & finish work with its CEO and other organisational Leaders addressing service development, for over 8 years.&nbsp;
 
 ## The Challenge
 
-To assist senior leadership in achieving its objective, to lead the organisation to a response to key shifts at national level impacting the sectors supporting vulnerable children & families and its network of stakeholders.
-
-The response needed to be bespoke, support their charitable mission, further the corporate objectives for the whole-organisation, be strategic and be practical.
+To partner senior leadership in achieving its objectives when leading the organisation in response to key external shifts for the organisation, the wider sector and its&nbsp; stakeholders.
 
 ## The Response
 
-Formed an evidence-based analysis of specific opportunities and risks arising from external changes in sector; developed a strategy to embrace these as a whole-organisation; produced set of prioritised 'next-steps' for each major change; identified opportunities for business development, strategic partnerships and growing MBO’s sphere of influence; working in partnership with key organisational Leaders to achieve this.
+Formulation of evidence-based analyses of specific opportunities and risks, arising from external changes; contribution to strategy formation; identification of opportunities for business development, strategic partnerships and growing MBO’s sphere of influence in respect of public sector; generation of potential 'next-steps' route maps for major change; contributing to specific events and new developments such as its Post Pandemic peer 2 peer "Think Tank".
 
 ## The Success
 
-> Jo was able to demonstrate quickly her skills in capturing our ‘organisational essence’, demonstrating a sound understanding of our corporate dynamics. Combining this with strong strategic skills and an experienced grasp of public sector dynamics, she enabled us to arrive at an informed view of what the Children & Families Act and other national developments mean for us whole-organisation”…..
+> Jo was able to demonstrate quickly her skills in capturing our ‘organisational essence’, demonstrating a sound understanding of our corporate culture. Combined&nbsp; with her strong strategic skills and an experienced grasp of public sector dynamics, she enabled us to arrive at an informed view of what external landscape shifts can mean for us as a whole-organisation and to respond with greater confidence…..
 
 ## Testimonial
 
-> MBO will be meeting implementation of the sector shifts with confidence and working with Jo has enabled us to achieve that. John Diamond, CEO, Mulberry Bush
+> MBO will be meeting these external sector 'shifts' with greater confidence and working with Jo has enabled us in that. John Diamond, CEO, Mulberry Bush
 
-Web Link : [Emotional Health and Mental Wellbeing: in vulnerable Children, Families, and their supporting professionals](http://www.mulberrybush.org.uk/national-centre/){: target="link"}
+Web Link : Supporting all those affected by[&nbsp;Childhood Trauma: Children, Families, and their supporting professionals](http://www.mulberrybush.org.uk/national-centre/){: target="link"}
