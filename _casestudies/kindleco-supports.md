@@ -2,7 +2,7 @@
 title: KindleCo supports innovative leadership at national childrens' charity
 permalink: >-
   /casestudies/kindleco-supports-innovative-leadership-at-national-childrens-charity/
-project_date: 2013-09-01 00:00:00
+project_date: 2021-06-30 00:00:00
 project_to_date: 2020-06-30 00:00:00
 list: false
 archive: false
