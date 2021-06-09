@@ -25,13 +25,10 @@ _comments:
 > "My vision is always to lead the organisation in a response to those external events that is strategic, well-informed, practical and importantly, always aligned with our ongoing mission and values.
 >
 >
-> Working with Jo has enabled us to achieve that with confidence.
->
->
 > She is able to demonstrate quickly her skills in capturing our organisational 'essence’ and sound understanding of our corporate dynamics. Combined&nbsp; with her experienced grasp of public sector dynamics, Jo enables us to arrive at an informed view of what the key shifts in the external landscape can mean to us as we develop the Bush for the future.
 >
 >
-> We will be meeting these challenges with confidence.”
+> Working with Jo has enabled us to achieve that with confidence."
 
 John Diamond, CEO, Mulberry Bush Organisation
 
