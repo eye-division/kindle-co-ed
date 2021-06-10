@@ -57,7 +57,7 @@ layout: default
           <svg class="icon {{ social.icon }}"><use xlink:href="#{{ social.icon }}" /></svg>
         </a>
       {% endif %}
-      {% if social.name == "LinkedIn" and social.share == true %}
+      {% if social.name == "linkedIn" and social.share == true %}
         <a href="//www.linkedin.com/shareArticle?mini=true&url={{ full_url | cgi_escape}}"
           onclick="window.open(this.href, '{{ social.icon }}-share', 'width=550,height=255');return false;">
           <svg class="icon {{ social.icon }}"><use xlink:href="#{{ social.icon }}" /></svg>
