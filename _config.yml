@@ -171,9 +171,9 @@ social:
     username:
     url:
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
-  - name: linkedin
+  - name: LinkedIn
     icon: icon-linkedin_sign
     username: jo-broad
     url: "https://www.linkedin.com/in/jobroad/"
