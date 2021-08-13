@@ -27,15 +27,15 @@ order: 6
 
 **In 2017, I ventured my very first *LinkedIn* article to mark \#WMHD**
 
-To those who know me well, I make no secret of finding social media, the attention economy and the age of 'self-promotion' incredibly uncomfortable. So, my great thanks to all those who read, liked, shared and gave me such valuable feedback on my article.
+To those who know me well, I make no secret of finding social media, the attention economy and the age of 'self-promotion' incredibly uncomfortable. So, my great thanks to all those who read, liked, shared and gave me such valuable feedback on my article:
 
-**MH was, and is still, riding high in the media like never before.** Campaigns to end stigma, raise awareness and promote resilience abound. Children & YP’s Mental Health is front of stage. These are all positives.
+**MH was, and is still, riding high in the media like never before.** Campaigns to end stigma, raise awareness and promote resilience abound. Children & YP’s Mental Health is front of stage.&nbsp;
 
-**But how, why and when do the attitudes to Mental Health, that our children later go on to adopt, really begin?** And do the campaign headlines mean the tide of ‘stigma’ is turning?
+**But how, why and when do the attitudes to Mental Health, that our children later go on to adopt, really begin?** And do the campaign headlines mean the tide of ‘stigma’ is turning? I explore the position statement published by our then Children's Commissioner, Anne Longfield&nbsp;
 
-**Read the full article [here](https://www.linkedin.com/pulse/childrens-voices-mental-health-national-conversation-jo-broad/)&nbsp;**
+**Read my full LinkedIn article [here](https://www.linkedin.com/pulse/childrens-voices-mental-health-national-conversation-jo-broad/)&nbsp;**
 
-Read the full Publication from the Office of the **Children's Commissioner [here](https://www.childrenscommissioner.gov.uk/wp-content/uploads/2017/10/Voices-Mental-health-needs-1_0.pdf)**
+Read the original Publication from the Office of the **Children's Commissioner [here](https://www.childrenscommissioner.gov.uk/wp-content/uploads/2017/10/Voices-Mental-health-needs-1_0.pdf)**
 
 *Some of the encouraging responses I received after publication - thank-you\!*
 
