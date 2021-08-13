@@ -4,10 +4,15 @@
   href: "/about/"
 - title: "Services"
   href: "/services/"
-- title: "Case studies"
+- title: "Working together"
+  href: "/working-together/"
+- title: "Testimonials &amp; Case studies"
   href: "/casestudies/"
-- title: "Resources & insights"
-  href: "/resources-and-insights/"
+  subcategories:
+    - subtitle: "Testimonials"
+      href: /testimonials/
+    - subtitle: "Case studies"
+      href: /case-studies/  
 - title: "News"
   href: "/news/"
 - title: "Contact"
