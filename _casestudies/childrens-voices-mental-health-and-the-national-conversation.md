@@ -1,6 +1,6 @@
 ---
 title: Children's Voices, Mental Health and the national conversation
-permalink: /casestudies/World Mental Health Day 2017/
+permalink: /casestudies/World Mental Health Day
 project_date: 2017-01-01 00:00:00
 project_to_date: 2017-01-01 00:00:00
 list: true
@@ -32,7 +32,7 @@ To those who know me well, I make no secret of finding social media, the attenti
 
 **But how, why and when do the attitudes to Mental Health, that our children later go on to adopt, really begin?** And do the campaign headlines mean the tide of ‘stigma’ is turning? I explore the position statement published by our then Children's Commissioner, Anne Longfield
 
-**Read my full LinkedIn article [here](https://www.linkedin.com/pulse/childrens-voices-mental-health-national-conversation-jo-broad/) **
+\*\*Read my full LinkedIn article [here](https://www.linkedin.com/pulse/childrens-voices-mental-health-national-conversation-jo-broad/) \*\*
 
 Read the original Publication from the Office of the **Children's Commissioner [here](https://www.childrenscommissioner.gov.uk/wp-content/uploads/2017/10/Voices-Mental-health-needs-1_0.pdf)**
 
@@ -46,4 +46,4 @@ Read the original Publication from the Office of the **Children's Commissioner [
 
 "This is so *\*\*relevant and crucial \*\**….. A really well written blog". *Simonne Gnessen, Social Entrepreneur, Author of ShEconomics & Board Member, **Action for Children charity***
 
-##
+\#\#
