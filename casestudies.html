@@ -30,7 +30,7 @@ _comments:
     <p class="callout center-this-text"><strong>What do clients and partners say ? <a href="#testimonials">Read testimonials at the foot of this page</a>. Here are some case studies ...</strong></p>
 </section>
 
-{% assign casestudies = site.casestudies | where:"archive",false %}
+{% assign casestudies = site.casestudies | where:"archive",false | sort: 'order' %}
 
 {% if casestudies %}
 

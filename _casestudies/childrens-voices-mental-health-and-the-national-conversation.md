@@ -19,7 +19,7 @@ images:
   - image_path:
     description:
 tags:
-order: '7'
+order: 7
 ---
 
 ### **Children's Voices, Mental Health and the national conversation**
