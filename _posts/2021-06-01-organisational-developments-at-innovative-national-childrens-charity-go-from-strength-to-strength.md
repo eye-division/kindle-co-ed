@@ -30,7 +30,7 @@ _comments:
 > She was able to demonstrate quickly her skills in capturing our organisational 'essence’ and sound understanding of corporate culture. Combined&nbsp; with her experienced grasp of public sector dynamics, Jo enables us to arrive at an informed view of what the key shifts in the external landscape can mean to us as we develop the Bush for the future.
 >
 >
-> Working with Jo has enabled us to achieve that synergy with greater confidence."
+> Working with Jo has enabled us to achieve that with greater confidence."
 
 John Diamond, CEO, Mulberry Bush Charity
 
