@@ -16,6 +16,7 @@ images:
 tags:
 order:
 ---
+
 In a reflective piece, I seek to **explore some of the systems-level inequities** built in to the national resources, agency infrastructures and working practices surrounding **adults who support children classed as 'vulnerable'&nbsp;** and ask: where do parent-carers fit in ?
 
 For anyone who enjoys a bit of a **gander through systems-change thinking**, read on. If not, I'd go make a cup of tea…..
