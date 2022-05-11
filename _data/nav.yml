@@ -6,14 +6,9 @@
   href: "/services/"
 - title: "Working together"
   href: "/working-together/"
-- title: "Testimonials &amp; Case studies"
-  href: "/casestudies/"
-  subcategories:
-    - subtitle: "Testimonials"
-      href: /testimonials/
-    - subtitle: "Case studies"
-      href: /case-studies/  
-- title: "News"
-  href: "/news/"
+- title: "Case studies"
+  href: "/casestudies/" 
+- title: "Testimonials"
+  href: "/testimonials/"
 - title: "Contact"
   href: "/contact/"

@@ -1,11 +1,11 @@
 ---
-title: 'Equity, Support and the ''System'' : a thought piece'
-permalink:
+title: 'Equity, Support and the "System" : a thought piece'
+permalink: /casestudies/equity-support-system/
 project_date:
 project_to_date:
 list: false
 archive: false
-short_description_markdown:
+short_description_markdown: 'In a reflective piece, I seek to **explore some of the systems-level inequities** built in to the national resources...'
 main_image_path:
 main_image_description:
 video_embed:

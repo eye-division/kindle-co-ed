@@ -1,13 +1,11 @@
 ---
-title: >-
-  Stakeholder maps - they don't stay still ! Helping busy professionals stay on
-  top of the big picture
-permalink:
+title: "Stakeholder maps - they don't stay still!"
+permalink: /casestudies/stakeholder-maps/
 project_date:
 project_to_date:
 list: false
 archive: false
-short_description_markdown:
+short_description_markdown: "Helping busy professionals stay on top of the big picture"
 main_image_path:
 main_image_description:
 video_embed:
