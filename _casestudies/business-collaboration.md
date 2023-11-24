@@ -1,11 +1,11 @@
 ---
-title: Business collaboration
+title: Collaboration-led change
 permalink: /casestudies/business-collaboration/
 project_date:
 project_to_date:
 list: false
 archive: false
-short_description_markdown: Brokering B2B partnerships in support of young Apprentices
+short_description_markdown: Helping new partnerships to create change in support of young Apprentices
 main_image_path:
 main_image_description:
 video_embed:
@@ -13,10 +13,8 @@ video_description:
 images:
   - image_path:
     description:
-tags:
 order: 6
 ---
-
 ## The People
 
 Competing businesses that deliver training for young people of 14-19 years.
