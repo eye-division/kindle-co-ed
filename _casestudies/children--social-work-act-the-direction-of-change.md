@@ -1,11 +1,13 @@
 ---
-title: 'Children & Social Work Act: the direction of change'
+title: 'Children & Social Work Act 2017: the direction of change'
 permalink: /casestudies/children-social-work-act/
 project_date:
 project_to_date:
 list: false
 archive: false
-short_description_markdown: "**'Putting Children First'** - the Government's **policy paper on Vulnerable Children* "
+short_description_markdown: >-
+  **'Putting Children First'** - the Government's *\*policy paper on Vulnerable
+  Children*
 main_image_path:
 main_image_description:
 video_embed:
@@ -13,10 +15,8 @@ video_description:
 images:
   - image_path:
     description:
-tags:
 order: 1
 ---
-
 When **"Putting Children First"**&nbsp; - the Government's **policy paper on Vulnerable Children** - was first published in July 2016, implementation seemed a long way off. But it reached the end of its Parliamentary journey swiftly and by April '17 was the Children & Social Work Act. But what have been the structural changes at agency level, who shares accountability and is this part of a 'bigger picture' of where the public sector is headed ?<!--{C}%3C!%2D%2Dbase32-c9gq6t9k68pp6eb7e4v78ebb6rw70w1pcnh3et9mervkgtb2c8v74xtq61vk2w33dtm36tbm75ppawkpddkq8rhjccw7cdtmf1u72dhhetnk4xtk6dj78v9k6tu64v9q6nr70rbqddr68t3be4w74u3acdhqedv3chu6uthhemvk4t38d1jq8vkb6hw78utpchn3ee3p75nkcx3n6ru7cebh6tq74dtge9h72t34e8v3gx1kc9jk8xtq6huk6rb3chm72tb4ertp6u3n6tuq8u38cnpqcutmegtkgt1hd9rkgxkbc8v6gxtq71uq8w33d1q36tb56dr3edbeddhqgcve6tt7adv3cnh6gdkme4vk8t3mcxjkju1q69u36d3571v36tvr65np6ebadcw7gx3h6tm7autpe9h36rv8dmvk4x326hjq4x3g6tuk6vhpehuq2e3n6cw66vkge5hqax3dcnkq8uv7egrpgt1te9npey3bc9hkgxhpcxw78wb3chu3ctvq6cu6au3h6djp6cvdcnu74uv5chh6mt34d1r3cwkbcmv78xtpcxvp4cv3dtm3ctv4ddppad3pdcw78cvdcdw6muvaemrq2dhhegvkgy1k6mvk2xhk6tu7cwhp6nq70dk5c9gp8rvq6xkqgcv7cdhqaw9rchnketbrdtnkcwkp71j74x3g6twk6chpd1n3cdkrddkp6dbp6tr7ecbgcmwqacv5cmtpmt1hegv3cxkbdmv7gu3g71uq8vk3dtnq2e3q65ppatvme1gq8cbmcmw7cw1jf4wpgt34d1rpexb8e1jqgxtq71vk2w3465v36rv46cu3edbj6dhp8rkg6tj6gwb5cdu6pdkmd8vk8xbp6djpex3g6hu36d3465t70ckjetr66tvp6ww7gcbhccupmdv3cdh3cdhne1np6xtkd9jq4xtpc5j36w3561u3ee33ert66t3q6tkqectncnw6ww35chu6gtb7etnpey9hdcv68utk69w32w3565u3ervqd1r3cvknddhpacvacnu74cv3egtp4t9gemvk8x9kc5hp8u3hc5vkjwk5exu6pckjeru6avbp6tuq4utj6rwpguv1f0tpertnd1rkgxb8chhkjtvh6tu3jutp70pp4rbkcmtk4-base32%2D%2D%3E-->
 
 **You can download the original document [here.](https://www.gov.uk/government/publications/putting-children-first-our-vision-for-childrens-social-care)**
@@ -42,7 +42,7 @@ But more than that, **collaborative working, will be paramount** in pulling off 
 > Collective responsibility is not entirely the same as Collaboration. The challenges to systems thinking, strategic planning and culture, to effect meaningful implementation, will be many.
 > {: .callout}
 
-**So where does all this leave us at the present time with respect to delivery on the Act?&nbsp;**
+**So where does all this leave us at the present time with respect to delivery on the Act?**&nbsp;
 
 **I have re-produced here, an analysis I first published on my (old) website, back in December 2016** after "Putting Children First" rolled off the press. This draws a picture of the '**sector shifts**' that we are all in the midst of, consciously, or otherwise.
 
@@ -78,8 +78,6 @@ Meanwhile, the onward march towards **whole-system** adoption of **sector-led im
 
 **Strap in & enjoy the ride.**
 
-**Jo Broad July 2018**
-
-Previously updated: 06.12.16&nbsp; &nbsp;
+*July 2017*
 
 Web Link : [Sector change ushered in for LAs, Schools, Health, Police](http://www.communitycare.co.uk/2017/04/28/children-social-work-act-2017-social-work-reforms-become-law/){: .greenlink target="_blank" rel="noopener"}
