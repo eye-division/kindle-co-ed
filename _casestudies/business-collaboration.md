@@ -1,5 +1,5 @@
 ---
-title: Collaboration-led change
+title: Collaboration-led change for young people and skills
 permalink: /casestudies/business-collaboration/
 project_date:
 project_to_date:
