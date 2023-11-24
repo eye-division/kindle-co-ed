@@ -9,7 +9,7 @@ short_description_markdown: >-
   **How, why and when do the attitudes to Mental Health, that our children later
   go on to adopt, really begin?**&nbsp; A piece inspired by my work partnering
   individuals & organisations delivering mental health support in changing
-  times....&nbsp;
+  times….&nbsp;
 main_image_path:
 main_image_description:
 video_embed:
@@ -17,7 +17,7 @@ video_description:
 images:
   - image_path:
     description:
-order: 4
+order: 10
 ---
 ### **Children's Voices, Mental Health and the national conversation**
 
