@@ -1,7 +1,7 @@
 ---
 title: >-
-  KindleCo supports innovative leadership at national childrens' charity as they
-  eveolve & grow
+  KindleCo supports innovative leadership at national childrens' charity to
+  navigate sector change
 permalink: >-
   /casestudies/kindleco-supports-innovative-leadership-at-national-childrens-charity/
 project_date:
