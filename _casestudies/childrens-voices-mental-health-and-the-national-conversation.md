@@ -1,8 +1,8 @@
 ---
 title: Children's Voices, Mental Health and the changing national conversation
 permalink: /casestudies/world-mental-health-day/
-project_date: 2017-01-01 00:00:00
-project_to_date: 2017-01-01 00:00:00
+project_date:
+project_to_date:
 list: true
 archive: false
 short_description_markdown: >-
