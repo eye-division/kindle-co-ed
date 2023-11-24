@@ -1,11 +1,13 @@
 ---
-title: Stakeholder maps - they don't stay still!
+title: Change and Stakeholder maps - they don't stay still!
 permalink: /casestudies/stakeholder-maps/
 project_date:
 project_to_date: 2023-11-30 00:00:00
 list: false
 archive: false
-short_description_markdown: Helping busy professionals stay on top of change and the 'big picture'
+short_description_markdown: >-
+  Helping busy professionals stay on top of change and the 'big picture'
+  surrounding their projects
 main_image_path:
 main_image_description:
 video_embed:
