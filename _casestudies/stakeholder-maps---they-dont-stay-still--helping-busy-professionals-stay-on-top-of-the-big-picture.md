@@ -13,7 +13,7 @@ video_description:
 images:
   - image_path:
     description:
-order:
+order: '1'
 ---
 > "Staying abreast of significant change in the complex eco-system of my multiple stakeholders, is fundamental to the success of my role….. KindleCo helps busy professionals working at the inter-section of innovation and public policy, to keep ontop of those ever-changing Stakeholder maps!
 
