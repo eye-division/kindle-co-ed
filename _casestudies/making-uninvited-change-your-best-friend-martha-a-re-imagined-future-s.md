@@ -6,14 +6,16 @@ project_to_date: 2023-11-30 00:00:00
 list: false
 archive: false
 short_description_markdown: >-
-  Change is the one constant we can absolutely rely on happenning! But sometimes
-  it feels uninvited, and is definately at ties, unexpected. Our lives can fall
-  prey to factors outside our control. Martha came to me for Coaching when a
-  medical condition had forced the end of a career she loved. A musician,
-  muscular-skeletal difficulties had put payed to a cherished life full of
-  passion and fulfillment. Now it felt like she was in a life she didn't
-  recognise. She's list her compass. In 6 sessions, she re-discovered her sense
-  of purpose and re-imagined alternative futures. Here's how....&nbsp;
+  Change is the one constant we can absolutely rely on! But sometimes it feels
+  uninvited, and is definitely at times, unexpected.
+
+
+  Martha came to me for Coaching when a medical condition had forced the end of
+  a career she loved. A musician, muscular-skeletal difficulties had put paid to
+  a cherished life full of passion and fulfilment. Now it felt like she was in a
+  life she didn't recognise. She's lost her compass. In 6 sessions, she
+  re-discovered her sense of purpose and re-imagined alternative futures. Here's
+  how....&nbsp;
 main_image_path:
 main_image_description:
 video_embed:
