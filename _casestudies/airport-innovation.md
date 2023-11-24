@@ -1,5 +1,7 @@
 ---
-title: 'Destination Skills: Airport innovation for young NEETs'
+title: >-
+  Destination Skills: new Strategic partnerships & change-maker programmes help
+  upskill communities & the workforce
 permalink: /casestudies/airport-innovation-for-young-people-out-of-work/
 project_date:
 project_to_date:
