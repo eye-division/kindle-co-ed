@@ -1,9 +1,11 @@
 ---
-title: KindleCo supports innovative leadership at national childrens' charity
+title: >-
+  KindleCo supports innovative leadership at national childrens' charity as they
+  eveolve & grow
 permalink: >-
   /casestudies/kindleco-supports-innovative-leadership-at-national-childrens-charity/
-project_date: 2021-06-30 00:00:00
-project_to_date: 2020-06-30 00:00:00
+project_date:
+project_to_date:
 list: false
 archive: false
 short_description_markdown: >-
@@ -26,9 +28,8 @@ images:
       2018. Pictured, John Diamond, CEO.
   - image_path:
     description:
-order: 5
+order: 3
 ---
-
 ## The People
 
 Improving the educational and long term life outcomes for traumatised children, and&nbsp; all those affected by childhood trauma, is the mission of the Mulberry Bush Charity, based in Oxfordshire.
