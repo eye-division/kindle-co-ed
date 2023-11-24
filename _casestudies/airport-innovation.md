@@ -4,10 +4,10 @@ title: >-
   upskill communities & the workforce
 permalink: /casestudies/airport-innovation-for-young-people-out-of-work/
 project_date:
-project_to_date:
+project_to_date: 2004-10-01 00:00:00
 list: false
 archive: false
-short_description_markdown: A creative approach to workforce development for young people and young adults
+short_description_markdown: Change-making&nbsp; partnerships in the East of England
 main_image_path:
 main_image_description:
 video_embed:
