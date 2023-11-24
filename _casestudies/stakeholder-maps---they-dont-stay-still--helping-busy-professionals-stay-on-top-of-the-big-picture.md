@@ -5,7 +5,7 @@ project_date:
 project_to_date: 2023-11-30 00:00:00
 list: false
 archive: false
-short_description_markdown: Helping busy professionals stay on top of change and the bigger picture
+short_description_markdown: Helping busy professionals stay on top of change and the big picture
 main_image_path:
 main_image_description:
 video_embed:
@@ -19,4 +19,4 @@ order:
 
 In the Health Outcomes business, I have to understand those Stakeholder needs as they evolve. The quick-fire briefing note produced by KindleCo brought me straight up to speed on recent ***changes at national level*** impacting the way Health would work with its partner agencies in support of Womens Health, Children & Young People… Accessible, bite-size & bespoke, the note was information-rich, when I was time poor".
 
-David Churchman, Founder & Director, Inspired Health Outcomes, Oxford
+David Churchman, Founder & Director, Inspired Health Outcomes, November 2023
