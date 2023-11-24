@@ -1,5 +1,5 @@
 ---
-title: Children's Voices, Mental Health and the national conversation
+title: Children's Voices, Mental Health and the changing national conversation
 permalink: /casestudies/world-mental-health-day/
 project_date: 2017-01-01 00:00:00
 project_to_date: 2017-01-01 00:00:00
@@ -7,8 +7,9 @@ list: true
 archive: false
 short_description_markdown: >-
   **How, why and when do the attitudes to Mental Health, that our children later
-  go on to adopt, really begin?**
-  &nbsp;
+  go on to adopt, really begin?**&nbsp; A piece inspired by my work partnering
+  individuals & organisations delivering mental health support in changing
+  times....&nbsp;
 main_image_path:
 main_image_description:
 video_embed:
@@ -16,10 +17,8 @@ video_description:
 images:
   - image_path:
     description:
-tags:
-order: 7
+order: 4
 ---
-
 ### **Children's Voices, Mental Health and the national conversation**
 
 **In 2017, I ventured my very first *LinkedIn* article to mark \#WMHD**
