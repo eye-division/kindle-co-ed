@@ -15,7 +15,7 @@ video_description:
 images:
   - image_path:
     description:
-order: 2
+order: 5
 ---
 ## The People
 
