@@ -1,21 +1,21 @@
 ---
 title: Making uninvited change your best friend- Martha & a re-imagined future(s)
 permalink:
-project_date: 2023-11-01 00:00:00
+project_date: 2023-10-01 00:00:00
 project_to_date: 2023-11-30 00:00:00
 list: false
 archive: false
 short_description_markdown: >-
-  Change is the one constant we can absolutely rely on! But sometimes it feels
-  uninvited, and is definitely at times, unexpected.
+  ***Change is the one constant we can absolutely rely on!*** But sometimes it
+  feels uninvited, and is definitely at times, unexpected.
 
 
-  Martha came to me for Coaching when a medical condition had forced the end of
-  a career she loved. A musician, muscular-skeletal difficulties had put paid to
-  a cherished life full of passion and fulfilment. Now it felt like she was in a
-  life she didn't recognise. She's lost her compass. In 6 sessions, she
-  re-discovered her sense of purpose and re-imagined alternative futures. Here's
-  how....&nbsp;
+  ***Martha came to me for Coaching when a medical condition had forced the end
+  of a career she loved.*** A musician, muscular-skeletal difficulties had put
+  paid to a cherished life full of passion and fulfilment. Now ***it felt like
+  she was in a life she didn't recognise***. She's lost her compass. ***In 6
+  sessions***, she ***re-discovered her sense of purpose*** and re-imagined
+  ***alternative futures***. **Here's how we did it....**&nbsp;
 main_image_path:
 main_image_description:
 video_embed:
