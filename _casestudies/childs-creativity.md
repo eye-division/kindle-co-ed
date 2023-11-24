@@ -1,13 +1,13 @@
 ---
-title: Every child's creativity matters
+title: Change for Children's flagship programme - evolution, & avoiding the dead end
 permalink: /casestudies/every-childs-creativity-matters/
 project_date:
 project_to_date:
 list: false
 archive: false
 short_description_markdown: >-
-  KindleCo helps government flagship programme for children's creative learning
-  spin-out as social enterprise in South East.
+  KindleCo partners government flagship for children's creative learning, to
+  navigate change from central funding, to independance
 main_image_path:
 main_image_description:
 video_embed:
@@ -15,11 +15,9 @@ video_description:
 images:
   - image_path:
     description:
-tags:
 order: 3
 ---
-
-## &nbsp;
+##
 
 ### **The People**
 
@@ -31,9 +29,9 @@ KindleCo successfully bid to Arts Council England's work for the ***DfE and DCMS
 
 ### **My Response**
 
-Leading a small Team of specialists, recruited bespoke for this project, I set out by agreeing ans sharing a core aim for the contract, of&nbsp; making every action work towards helping to&nbsp;**ensure a legacy for the investment the Government**&nbsp; and all the programme participants, had made in it through not just funding, but time an, passion and engagement. It was important to me, to make my values live through the contract work in support of the contracting agency to ensure the programme's **end -beneficiaries (Teachers, Artists and Children & Young People themselves) would benefit long after the centrally- run programme ended in the region.&nbsp;**
+Leading a small Team of specialists, recruited bespoke for this project, I set out by agreeing ans sharing a core aim for the contract, of&nbsp; making every action work towards helping to&nbsp;**ensure a legacy for the investment the Government**&nbsp; and all the programme participants, had made in it through not just funding, but time an, passion and engagement. It was important to me, to make my values live through the contract work in support of the contracting agency to ensure the programme's **end -beneficiaries (Teachers, Artists and Children & Young People themselves) would benefit long after the centrally- run programme ended in the region.**&nbsp;
 
-Key deliverables included: successful completion of regional consultation with high levels of participation across all major stakeholder groups;&nbsp;**formulation of a route map** for lead agencies to follow through the exit phase and beyond as a **transition bridge** to the future; researched, and&nbsp;**establish financial tolerances in potential business models;** scoping of**&nbsp;future potential operational partner types&nbsp;**and shared mission.
+Key deliverables included: successful completion of regional consultation with high levels of participation across all major stakeholder groups;&nbsp;**formulation of a route map** for lead agencies to follow through the exit phase and beyond as a **transition bridge** to the future; researched, and&nbsp;**establish financial tolerances in potential business models;** scoping of&nbsp;**future potential operational partner types**&nbsp;and shared mission.
 
 ### **The Success**
 
@@ -43,14 +41,14 @@ In short, **KindleCo provided a clear structure on which to hang next steps** fo
 
 To see an example of outcomes of the recommendations KindleCo generated for this project, visit: **[http://www.cultureshift.org.uk](http://www.cultureshift.org.uk/){: target="link"}**
 
-[View the final report](/uploads/DCMS_DfECreative PartnershipsExit StrategyFutureAndFeasability_KindleCo.pdf)
+[View the final report](/uploads/DCMS_DfECreative%20PartnershipsExit%20StrategyFutureAndFeasability_KindleCo.pdf)
 
-***We helped build relationships that continue to the present day\!***
+***We helped build relationships that continue to the present day!***
 
 ###### ![](/uploads/artswork-birthday-pic.JPG)
 
-###### &nbsp;
+######
 
-<div id="celebrating-30th-birthday-ofartsworkin-nov-2017-with-current-artswork-ceo-and-its-chair-of-board-of-trustees---the-former-custodians-of-the-creative-partnerships-south-east"><em>Celebrating 30th Birthday of&nbsp;<a href="https://artswork.org.uk/">Artswork</a>&nbsp;in Nov 2017 with current Artswork CEO and its Chair of Board of Trustees - the former custodians of the Creative Partnerships, South East.</em></div>
+<div><em>Celebrating 30th Birthday of&nbsp;<a href="https://artswork.org.uk/">Artswork</a>&nbsp;in Nov 2017 with current Artswork CEO and its Chair of Board of Trustees - the former custodians of the Creative Partnerships, South East.</em></div>
 
-## &nbsp;
+##
