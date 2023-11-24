@@ -1,5 +1,5 @@
 ---
-title: Change for Children's flagship programme - evolution, & avoiding the dead end
+title: Change for Children's flagship programme - evolution, transition & new futures
 permalink: /casestudies/every-childs-creativity-matters/
 project_date:
 project_to_date:
@@ -17,7 +17,7 @@ images:
     description:
 order: 3
 ---
-##
+\##
 
 ### **The People**
 
@@ -47,8 +47,8 @@ To see an example of outcomes of the recommendations KindleCo generated for this
 
 ###### ![](/uploads/artswork-birthday-pic.JPG)
 
-######
+\######
 
 <div><em>Celebrating 30th Birthday of&nbsp;<a href="https://artswork.org.uk/">Artswork</a>&nbsp;in Nov 2017 with current Artswork CEO and its Chair of Board of Trustees - the former custodians of the Creative Partnerships, South East.</em></div>
 
-##
+\##
