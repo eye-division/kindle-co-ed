@@ -1,5 +1,5 @@
 ---
-title: Making uninvited change your best friend- Martha & a re-imagined future(s)
+title: Marth's Story - making uninvited change your best friend
 permalink:
 project_date: 2023-10-01 00:00:00
 project_to_date: 2023-11-30 00:00:00
