@@ -4,7 +4,7 @@ permalink: /casestudies/equity-support-system/
 project_date:
 project_to_date:
 list: false
-archive: false
+archive: true
 short_description_markdown: >-
   In a reflective piece, I seek to **explore some of the systems-level
   inequities** built in to the national resources supportng families and the
@@ -82,7 +82,7 @@ These are ostensibly provided to support families with a child with complex heal
 
 A sort of **3 - way lens** has been slowly but surely building, of **professional, &nbsp;stakeholder&nbsp; and personal story perspectives.**&nbsp;
 
-It's multi-faceted&nbsp;**kaleidoscope view**&nbsp;and &nbsp;**&nbsp;**&nbsp;I'm committed to deploying it for the **greater good**.
+It's multi-faceted&nbsp;**kaleidoscope view**&nbsp;and &nbsp;&nbsp;**&nbsp;**&nbsp;&nbsp;I'm committed to deploying it for the **greater good**.
 
 **There is a debate to be had nationally**&nbsp;a**bout how to resource and systematise equally, the maintaining of wellbeing for all adults in a team** **around a child.**&nbsp;
 
