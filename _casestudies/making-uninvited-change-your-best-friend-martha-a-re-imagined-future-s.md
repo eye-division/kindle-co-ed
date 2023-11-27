@@ -37,27 +37,35 @@ What's important at such junctures - and make no mistake, they can feel&nbsp;***
 
 Now, Martha was pretty fiesty and was determined not to sit back and be a victim of circumstance. I was struck by her sense of willpower and 'can do' attitude. So I knew she would make a great client&nbsp;***match***. That isn't offered as a criticism when I meet clients who don't exhibit those qualities outwardly - ***uninvited change*** coming into our lives can really knowck us sideway - as I like to say, it can feel as though it just&nbsp;***turns up***, ***sits in your favourite chair*** and ***walks off in your best shoes!***
 
-#### &nbsp;**So how was I able to help Martha ?**
+#### **So, how was I able to help Martha ?**
 
-#### In **6&nbsp; sessions**, together we dialled back in to Marth's innate **skills & abilities**, those that her life in Music had honed, and worked on re-imagining those in new contexts.
+<div>In <strong>6&nbsp; sessions</strong>, together we dialled back in to Martha's innate <strong>skills &amp; abilities</strong>, those that her life in Music had honed, and worked on re-imagining those in new contexts.</div>
 
-<div>By <strong>session 3</strong>, Martha could see new possibilities emerging for herself, which she herself generated with my help and support. How to <strong><em>redeploy her experience and talents</em></strong>. Her experience and authority was gained not only from her Musical life, but from her mastery of navigating complex social relationships of the sort one typically finds in musical groups and communities, and in family life. We were able to pin point that she was a great collaborator, natural organiser and, as our sessions discovered, had a flair for copy-writing. Interesting, because in out first session, she classed herself as 'someone who isn't good at stuff that isn't hands-on'.</div>
+<div> </div>
+
+<div>By <strong>session 3</strong>, Martha could see new possibilities emerging for herself, which she herself generated with my help and support. How to <strong><em>redeploy her experience and talents</em></strong>. <em><strong>Her experience and authority was gained </strong></em>not only from her Musical life, but from <em><strong>her mastery of navigating complex social relationships</strong></em> of the sort one typically finds in musical groups and communities, and in family life. We were able to pin point that she was a great collaborator, natural organiser and, as our sessions discovered, had a flair for copy-writing. Interesting, because in out first session, she classed herself as 'someone who isn't good at stuff that is more academic&nbsp; or isn't hands-on'.</div>
 
 <div> </div>
 
 By **session 5**, we had deep-dived into what felt closest to her heart in terms of ***personal values***. Using ***my own structured approach***, to help unpeel the layers which can ***'mask'*** who we truly are (and yes, we all do this to an extent!), Martha was able to construct a magnificent ***set of 'next steps'*** which truly ***aligned*** with her core values.
 
-Together, we had worked to tame the sorts of ***self-limiting beliefs*** we all fall prey to, into something much more manageable for her to ***move forward*** with.
+Together, we had worked to tame the sorts of ***self-limiting beliefs*** we all fall prey to, into something much more manageable for her, with which she could&nbsp;***move forward***.
 
-Martha's 'will', which I referred to at the start of this little piece, didn't have to carryand the day alone. Not many of us thrive when we work in complete isolation.
+Martha's 'will', which I referred to at the start of this little piece, didn't have to carryand the day alone. Not many of us thrive when we work in complete isolation. .
 
 #### **What else did our Coaching sessions provide?**
 
-I was there to provide an essential element of ***accountability*** - so vital to effective Coaching. ***A buddy who can help keep you on track with progress*** \- progress which does not have to change the world, but can come, one step at a time.
+I was there to provide an essential element of ***accountability*** - so vital to effective Coaching. ***A buddy who can help keep you on track with progress*** \- progress which does not have to change the world, but can come, one step at a time. That is the beauty of Coaching. It can't do the work for you, but it can enable you and help you find your courage and commitment.
 
 #### What were the Outcomes ?
 
-By the end of session 6, some 9 weeks later, Martha felt she had a much clearer vision for her potential new futures, an action plan of next steps which, leaning into me as an accountability buddy, she was already implementing. Most importantly, as this was self-grenerated during our sessions, she felt ownership over it. The sadness about what had happened, to her fromer life and sense of identity, hadn't left Martha - that wasn't the job of the Coaching . However, Martha no longer felt like the uninvited change was controlling her entire destiny.
+<div><em><strong>By the end of session 6</strong></em>, some 9 weeks later, Martha felt she had a much clearer vision for her potential new futures, an action plan of next steps which, leaning into me as an accountability buddy, she was already implementing. Most importantly, as this was self-grenerated during our sessions, she felt ownership over it. The sadness about what had happened, to her fromer life and sense of identity, hadn't left Martha - that wasn't the job of the Coaching .</div>
+
+<div> </div>
+
+#### Martha no longer felt like the uninvited change was controlling her destiny.
+
+<div> </div>
 
 If you would like to empower yourself to ***turn change***, ***from your 'uninvited guest' into your best friend***, book your [free Discovery Call](/contact/) with me today.
 
