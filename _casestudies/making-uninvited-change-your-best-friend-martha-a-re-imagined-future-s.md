@@ -1,5 +1,5 @@
 ---
-title: Marth's Story - making uninvited change your best friend, through Coaching
+title: Martha's Story - making uninvited change your best friend, through Coaching
 permalink:
 project_date: 2023-10-01 00:00:00
 project_to_date: 2023-11-30 00:00:00
@@ -15,7 +15,7 @@ short_description_markdown: >-
   paid to a cherished life full of passion and fulfilment. Now ***it felt like
   she was in a life she didn't recognise***. She's lost her compass. ***In 6
   sessions***, she ***re-discovered her sense of purpose*** and re-imagined
-  ***alternative futures***. **Here's how we did it....**&nbsp;
+  ***alternative futures***. **Here's how we did it….**&nbsp;
 main_image_path:
 main_image_description:
 video_embed:
@@ -25,25 +25,47 @@ images:
     description:
 order:
 ---
-Change is the one constant we can absolutely rely on happening! But sometimes it feels uninvited and is definitely unexpected. Changes in ***health***, ***medical*** issues, accidents, ***bereavement***, family ***relationships***, ***jobs***...they can all fall prey to factors outside our control. Sometimes we find ourselves in a life we don't altogether recognise. That was ***Martha's story*** when she came to me for Coaching.&nbsp;
+Change is the one constant we can absolutely rely on happening! But sometimes it feels uninvited and is definitely unexpected. Changes in circumstance realting to ***careers, health***, accidents, bereavement, family ***relationships***…they can all fall prey to factors outside our control. We may even feel we are walkkng through a life we don't recognise.
+
+#### This was ***Martha's story*** when she came to me for Coaching.&nbsp;
 
 A talented musician, muscular-skeletal difficulties had put paid to a cherished way of life, full of passion and fulfilment. &nbsp;
 
-Now, I can relate to this, as someone who had to swing career paths aged 22. Doesn’t sound that old, does it? But this was after I had devoted many years of specialist (one might call it 'elite' level) training in the service of that one vocation, and was cut off in its prime due to a medical condition. With it went not just a livelihood but a whole social system and peer group - a whole way of being. I am an empath anyway, but I could really relate to this one!
+Now, I can relate to this, as someone who had to swing career paths aged 22. Doesn’t sound that old, does it - like there was plenty of time to not sweat about it? But this was after I had devoted many years of specialist (one might call it 'elite' level) training in the service of that one vocation, and it was cut off in its prime due to a medical condition. With it went not just a livelihood, but a whole social system and peer group - a whole way of being. I am an empath anyway, but I could really relate to Martha's story.
 
-What important at such junctures - and make no mistake, they are ***traumatic*** and ***life changing*** - is to have some mechanism for ***grieving the past***, ***accepting the present*** and ***re-imagining your future***. But doing this alone can be isolating, and at moments of vulnerability, prone to lack of concrete action.
+What's important at such junctures - and make no mistake, they can feel&nbsp;***traumatic*** and ***life changing*** - is to have some mechanism for ***accepting the present*** and ***re-imagining your future***. But doing this alone, can be isolating, and is prone to lack of concrete action happenning as we devote our energies to surfacing and emotionally finding our feet again..
 
-Martha was determined not to sit back and only be a victim of circumstance. I was already struck by her willpower and 'can do' attitude when I met her. So I knew we would make a great&nbsp; ***Coach-&nbsp; Coachee match***. There is no criticism when I say I meet potential clients who don't exhibit those qualities - it absolutely goes with the territory of ***uninvited change*** coming into our lives. As I like to say, it can ***turn up***, ***sit in your favourite chair*** and ***walk off in your best shoes!***
+Now, Martha was pretty fiesty and was determined not to sit back and be a victim of circumstance. I was struck by her sense of willpower and 'can do' attitude. So I knew she would make a great client&nbsp;***match***. That isn't offered as a criticism when I meet clients who don't exhibit those qualities outwardly - ***uninvited change*** coming into our lives can really knowck us sideway - as I like to say, it can feel as though it just&nbsp;***turns up***, ***sits in your favourite chair*** and ***walks off in your best shoes!***
 
-&nbsp;So how was I able to help Martha ?
+#### **So, how was I able to help Martha ?**
 
-In **6&nbsp; sessions**, together we dialled back in to Marth's innate **skills & abilities**, those that her life in Music had honed, and worked on re-imagining those in new contexts.
+<div>In <strong>6&nbsp; sessions</strong>, together we dialled back in to Martha's innate <strong>skills &amp; abilities</strong>, those that her life in Music had honed, and worked on re-imagining those in new contexts.</div>
 
-By **session 3**, Martha could see new possibilities emerging, which she herself generated with my help and support, for how to ***redeploy her experience and talents***. Experience and authority, gained not only from her Musical life, but from her mastery of navigating complex social relationships of the sort one typically finds in musical groups and communities, and in family life. She was a great collaborator, natural organiser and, as our sessions discovered, had a flair for copy-writing.&nbsp;
+<div> </div>
 
-More importantly, by **session 5**, we had deep-dived enough into what felt closest to her heart in terms of ***personal values***. Using ***my own structured approach***, to help unpeel the layers, which can ***'mask'*** who we truly are (and yes, we all do this to an extent!), Martha was able to construct a magnificent ***set of 'next steps'*** which truly ***aligned*** with her core values. Together, we had worked to tame the sorts of ***self-limiting beliefs*** we all fall prey to, into something much more manageable for her to ***move forward*** with.
+<div>By <strong>session 3</strong>, Martha could see new possibilities emerging for herself, which she herself generated with my help and support. How to <strong><em>redeploy her experience and talents</em></strong>. <em><strong>Her experience and authority was gained </strong></em>not only from her Musical life, but from <em><strong>her mastery of navigating complex social relationships</strong></em> of the sort one typically finds in musical groups and communities, and in family life. We were able to pin point that she was a great collaborator, natural organiser and, as our sessions discovered, had a flair for copy-writing. Interesting, because in out first session, she classed herself as 'someone who isn't good at stuff that is more academic&nbsp; or isn't hands-on'.</div>
 
-Marth's 'will', which I referred to at the start of this little piece, didn't have to work in isolation however. I was there to provide an essential element of ***accountability*** \- so vital to effective Coaching. A ***buddy*** who can help keep you on track with progress - ***progress*** which does not have to change the world, but can and does come, one step at a time.
+<div> </div>
+
+By **session 5**, we had deep-dived into what felt closest to her heart in terms of ***personal values***. Using ***my own structured approach***, to help unpeel the layers which can ***'mask'*** who we truly are (and yes, we all do this to an extent!), Martha was able to construct a magnificent ***set of 'next steps'*** which truly ***aligned*** with her core values.
+
+Together, we had worked to tame the sorts of ***self-limiting beliefs*** we all fall prey to, into something much more manageable for her, with which she could&nbsp;***move forward***.
+
+Martha's 'will', which I referred to at the start of this little piece, didn't have to carryand the day alone. Not many of us thrive when we work in complete isolation. .
+
+#### **What else did our Coaching sessions provide?**
+
+I was there to provide an essential element of ***accountability*** - so vital to effective Coaching. ***A buddy who can help keep you on track with progress*** \- progress which does not have to change the world, but can come, one step at a time. That is the beauty of Coaching. It can't do the work for you, but it can enable you and help you find your courage and commitment.
+
+#### What were the Outcomes ?
+
+<div><em><strong>By the end of session 6</strong></em>, some 9 weeks later, Martha felt she had a much clearer vision for her potential new futures, an action plan of next steps which, leaning into me as an accountability buddy, she was already implementing. Most importantly, as this was self-grenerated during our sessions, she felt ownership over it. The sadness about what had happened, to her fromer life and sense of identity, hadn't left Martha - that wasn't the job of the Coaching .</div>
+
+<div> </div>
+
+#### Martha no longer felt like the uninvited change was controlling her destiny.
+
+<div> </div>
 
 If you would like to empower yourself to ***turn change***, ***from your 'uninvited guest' into your best friend***, book your [free Discovery Call](/contact/) with me today.
 
