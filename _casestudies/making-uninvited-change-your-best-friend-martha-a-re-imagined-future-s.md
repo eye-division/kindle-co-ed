@@ -51,15 +51,15 @@ By **session 5**, we had deep-dived into what felt closest to her heart in terms
 
 Together, we had worked to tame the sorts of ***self-limiting beliefs*** we all fall prey to, into something much more manageable for her, with which she could&nbsp;***move forward***.
 
-Martha's 'will', which I referred to at the start of this little piece, didn't have to carryand the day alone. Not many of us thrive when we work in complete isolation. .
+Martha's 'will', which I referred to at the start of this little piece, didn't have to carry the day alone. Not many of us thrive, when we work in complete isolation. .
 
 #### **What else did our Coaching sessions provide?**
 
-I was there to provide an essential element of ***accountability*** - so vital to effective Coaching. ***A buddy who can help keep you on track with progress*** \- progress which does not have to change the world, but can come, one step at a time. That is the beauty of Coaching. It can't do the work for you, but it can enable you and help you find your courage and commitment.
+I was there to provide an essential element of ***accountability*** - so vital to effective Coaching. ***A buddy who can help keep you on track with progress*** - progress which does not have to change the world, but can come, one step at a time. That is the beauty of Coaching. It can't do the work for you, but it can enable you and help you find your courage and commitment.
 
 #### What were the Outcomes ?
 
-<div><em><strong>By the end of session 6</strong></em>, some 9 weeks later, Martha felt she had a much clearer vision for her potential new futures, an action plan of next steps which, leaning into me as an accountability buddy, she was already implementing. Most importantly, as this was self-grenerated during our sessions, she felt ownership over it. The sadness about what had happened, to her fromer life and sense of identity, hadn't left Martha - that wasn't the job of the Coaching .</div>
+<div><em><strong>By the end of session 6</strong></em>, some 9 weeks later, Martha felt she had a much clearer vision for her potential new futures, an action plan of next steps which, leaning into me as an accountability buddy, she was already implementing. Most importantly, as this was self-grenerated during our sessions, she felt ownership over it. The sadness about what had happened, to her former life and sense of identity, hadn't left Martha - that wasn't the job of the Coaching .</div>
 
 <div> </div>
 
