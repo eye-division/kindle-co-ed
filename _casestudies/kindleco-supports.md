@@ -52,6 +52,6 @@ Formulation of evidence-based analyses of specific opportunities and risks, aris
 
 ## Testimonial
 
-> MBO will be meeting these external sector ‘shifts’ with greater confidence and working with Jo has enabled us in that. John Diamond, CEO, Mulberry Bush
+> MBO have met these external sector ‘changes with much greater confidence - working with Jo has enabled us in that. John Diamond, CEO, Mulberry Bush
 
-Web Link : Supporting all those affected by[&nbsp;Childhood Trauma: Children, Families, and their supporting professionals](http://www.mulberrybush.org.uk/national-centre/)
+&nbsp;
