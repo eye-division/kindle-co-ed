@@ -31,6 +31,6 @@ Facilitated by me, the network was able to identify shared objectives. A 12 mont
 
 The outcomes of our work together were delivery by the network of a shared marketing drive, a profile - raising conference in its own sector, promotion to parents, carers & young people of the training on offer and the commissioning of a bespoke staff development programme to improve individual business performance. Additional resources were levered into the network from government sources to support the work.
 
-**Web Link**\: [Apprenticeships - more info](https://www.gov.uk/government/topical-events/national-apprenticeship-week-2019/about){: target="link"}
+**Web Link**: [Apprenticeships - more info](https://www.gov.uk/government/topical-events/national-apprenticeship-week-2019/about)
 
-Delivered under my first independent trading name back in 2004\! (Jo Broad Consulting)
+&nbsp;
