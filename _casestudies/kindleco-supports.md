@@ -14,7 +14,7 @@ short_description_markdown: >-
   respond to external change including Government-influenced shifts which
   trickle through the sector. Key shifts from the specifics of implementing the
   Children & Families Act 2014, to the more considered response of providing a
-  Reflective Space for sector Leaders to "Think" together as they emerge from
+  Reflective Space for sector Leaders to “Think” together as they emerge from
   the global Pandemic of 2020: these all provide moments of both challenge &
   opportunity to its charitable mission.
 main_image_path:
@@ -23,9 +23,7 @@ video_embed:
 video_description:
 images:
   - image_path: /uploads/mbo170.jpg
-    description: >-
-      Celebrating the 70th Birthday of the Mulberry Bush Organisation in July
-      2018. Pictured, John Diamond, CEO.
+    description:
   - image_path:
     description:
 order: 3
@@ -38,7 +36,7 @@ For those organisations who need, and want, to work in close partnership with pu
 
 The potential to feel simultaneously corporately excited & overwhelmed becomes a regular occurrence for many operating in the complex eco-system of stakeholder networks and funding pools which flow from Government policy.
 
-Jo has been working with MBO as a specialist Associate since September 2013 to help support the Charity's response the changing external landscape. From the very specific challenges of implementing the Children & Families Act 2014, to MB's shaping of a more nuanced and considered response to supporting its stakeholders' emergence from the 2020 Global Pandemic. Jo has contributed to SLT Policy Groups, Think Tanks and task & finish work with its CEO and other organisational Leaders addressing service development, for over 7 years.&nbsp;
+Jo worked closely with MBO as a specialist Associate over an 8 yrear period before and after the Covid19 Pandemic, to help support the Charity’s response the changing external landscape. From the very specific challenges of implementing the Children & Families Act 2014, to MB’s shaping of a more nuanced and considered response to supporting its stakeholders’ emergence from the global challenges of 2020, Jo contributed to SLT Policy Groups, Think Tanks and task & finish work with its CEO and other organisational Leaders. .&nbsp;
 
 ## The Challenge
 
@@ -46,7 +44,7 @@ To partner senior leadership in achieving its objectives when leading the organi
 
 ## The Response
 
-Formulation of evidence-based analyses of specific opportunities and risks, arising from external changes; contribution to strategy formation; identification of opportunities for business development, strategic partnerships and growing MBO’s sphere of influence in respect of public sector; generation of potential 'next-steps' route maps for major change; contributing to specific events and new developments such as its Post Pandemic peer 2 peer "Think Tank".
+Formulation of evidence-based analyses of specific opportunities and risks, arising from external changes; contribution to strategy formation; identification of opportunities for business development, strategic partnerships and growing MBO’s sphere of influence in respect of public sector; generation of potential ‘next-steps’ route maps for major change; contributing to specific events and new developments such as its Post Pandemic peer 2 peer “Think Tank”.
 
 ## The Success
 
@@ -54,6 +52,6 @@ Formulation of evidence-based analyses of specific opportunities and risks, aris
 
 ## Testimonial
 
-> MBO will be meeting these external sector 'shifts' with greater confidence and working with Jo has enabled us in that. John Diamond, CEO, Mulberry Bush
+> MBO have met these external sector ‘changes with much greater confidence - working with Jo has enabled us in that. John Diamond, CEO, Mulberry Bush
 
-Web Link : Supporting all those affected by[&nbsp;Childhood Trauma: Children, Families, and their supporting professionals](http://www.mulberrybush.org.uk/national-centre/){: target="link"}
+&nbsp;
